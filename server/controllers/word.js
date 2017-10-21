@@ -56,7 +56,6 @@ const fetchWordDetail = async(ctx, next) => {
   let isNew = ctx.request.body.isNew
   let id = ctx.request.body.id // word id
   let contentUrl = 'https://pvp.qq.com' + ctx.request.body.url // 某个世界导航下面的内容
-
   let filePath = resolvePath('../crawerdb/worddetail' + id + '.json')
   let exists = fs.existsSync(filePath)
   let result = null

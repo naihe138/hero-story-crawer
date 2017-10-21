@@ -151,7 +151,7 @@ var router = function router(app) {
   var router = new __WEBPACK_IMPORTED_MODULE_0_koa_router___default.a();
 
   // story
-  router.get('/api/history', __WEBPACK_IMPORTED_MODULE_1__controllers_story__["a" /* default */].fetchHeroList);
+  router.get('/api/hero', __WEBPACK_IMPORTED_MODULE_1__controllers_story__["a" /* default */].fetchHeroList);
   router.post('/api/heroDetail', __WEBPACK_IMPORTED_MODULE_1__controllers_story__["a" /* default */].fetchHeroDetail);
 
   // word
@@ -586,23 +586,26 @@ var fetchHeroDetail = function () {
 
             result = result.toString();
             result = JSON.parse(result);
-            _context2.next = 19;
+            _context2.next = 20;
             break;
 
           case 16:
-            _context2.next = 18;
+            if (!/^http/.test(url)) {
+              url = 'https:' + url;
+            }
+            _context2.next = 19;
             return __WEBPACK_IMPORTED_MODULE_1__cr_story__["a" /* default */].getHeroDatail(url, id);
 
-          case 18:
+          case 19:
             result = _context2.sent;
 
-          case 19:
+          case 20:
             ctx.body = {
               success: true,
               data: result
             };
 
-          case 20:
+          case 21:
           case 'end':
             return _context2.stop();
         }
@@ -1425,7 +1428,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
 
 var host = process.env.HOST || '127.0.0.1';
-var port = process.env.PORT || 5009;
+var port = process.env.PORT || 8080;
 
 // Import and Set Nuxt.js options
 var config = __webpack_require__(6);

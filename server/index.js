@@ -4,7 +4,7 @@ import bodyParser from 'koa-bodyparser'
 import router from './middlwares/router'
 
 const host = process.env.HOST || '127.0.0.1'
-const port = process.env.PORT || 5009
+const port = process.env.PORT || 8080
 
 // Import and Set Nuxt.js options
 let config = require('../nuxt.config.js')

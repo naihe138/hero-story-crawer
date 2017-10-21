@@ -41,6 +41,9 @@ const fetchHeroDetail = async(ctx, next) => {
     result = result.toString()
     result = JSON.parse(result)
   } else {
+    if (!(/^http/.test(url))) {
+      url = 'https:' + url
+    }
     result = await Story.getHeroDatail(url, id)
   }
   ctx.body = {

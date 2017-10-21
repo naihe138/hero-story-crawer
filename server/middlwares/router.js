@@ -11,7 +11,7 @@ const router = app => {
   const router = new Router()
 
   // story
-  router.get('/api/history', Story.fetchHeroList)
+  router.get('/api/hero', Story.fetchHeroList)
   router.post('/api/heroDetail', Story.fetchHeroDetail)
 
   // word
