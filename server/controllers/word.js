@@ -1,14 +1,12 @@
 import fs from 'fs'
 import { resolve } from 'path'
-import getWord from '../cr/word'
-import getWordNav from '../cr/word-nav'
-import getWordDetail from '../cr/wordDetail'
+import Word from '../cr/word'
 import wordConfig from '../config/word'
 
 const resolvePath = url => resolve(__dirname, url)
 
 // 获取世界首页数据
-const getWordIndex = async(ctx, next) => {
+const fetchWord = async(ctx, next) => {
   let isNew = ctx.query.isNew
   let id = ctx.query.id // word id
 
@@ -22,7 +20,7 @@ const getWordIndex = async(ctx, next) => {
     result = result.toString()
     result = JSON.parse(result)
   } else {
-    result = await getWord()
+    result = await Word.getWord()
   }
   ctx.body = {
     success: true,
@@ -38,7 +36,6 @@ const fetchWordNav = async(ctx, next) => {
 
   let filePath = resolvePath('../crawerdb/wordnav' + id + '.json')
   let exists = fs.existsSync(filePath)
-
   let result = null
 
   if (exists && !isNew) {
@@ -46,7 +43,7 @@ const fetchWordNav = async(ctx, next) => {
     result = result.toString()
     result = JSON.parse(result)
   } else {
-    result = await getWordNav(urlOpt.url1, urlOpt.url2)
+    result = await Word.getWordNav(urlOpt.url1, urlOpt.url2, id)
   }
   ctx.body = {
     success: true,
@@ -56,13 +53,12 @@ const fetchWordNav = async(ctx, next) => {
 
 // 获取某个世界内容
 const fetchWordDetail = async(ctx, next) => {
-  let isNew = ctx.query.isNew
-  let id = ctx.request.id // word id
-  let contentUrl = ctx.request.url // 某个世界导航下面的内容
+  let isNew = ctx.request.body.isNew
+  let id = ctx.request.body.id // word id
+  let contentUrl = 'https://pvp.qq.com' + ctx.request.body.url // 某个世界导航下面的内容
 
   let filePath = resolvePath('../crawerdb/worddetail' + id + '.json')
   let exists = fs.existsSync(filePath)
-
   let result = null
 
   if (exists && !isNew) {
@@ -70,7 +66,7 @@ const fetchWordDetail = async(ctx, next) => {
     result = result.toString()
     result = JSON.parse(result)
   } else {
-    result = await getWordDetail(contentUrl, id)
+    result = await Word.getWordDetail(contentUrl, id)
   }
   ctx.body = {
     success: true,
@@ -79,7 +75,7 @@ const fetchWordDetail = async(ctx, next) => {
 }
 
 export default {
-  getWordIndex,
+  fetchWord,
   fetchWordNav,
   fetchWordDetail
 }

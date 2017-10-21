@@ -1,11 +1,10 @@
-import History from '../cr/heroList'
-import HeroDetail from '../cr/heroDetail'
+import Story from '../cr/story'
 import fs from 'fs'
 import { resolve } from 'path'
 
 const resolvePath = url => resolve(__dirname, url)
 
-const getHeroList = async(ctx, next) => {
+const fetchHeroList = async(ctx, next) => {
   let isNew = ctx.query.isNew
   let filePath = resolvePath('../crawerdb/heroList.json')
   let exists = fs.existsSync(filePath)
@@ -17,7 +16,7 @@ const getHeroList = async(ctx, next) => {
     result = result.toString()
     result = JSON.parse(result)
   } else {
-    result = await History()
+    result = await Story.getHeroStory()
   }
   ctx.body = {
     success: true,
@@ -25,7 +24,7 @@ const getHeroList = async(ctx, next) => {
   }
 }
 
-const getHeroDetail = async(ctx, next) => {
+const fetchHeroDetail = async(ctx, next) => {
   let prams = ctx.request.body
   let id = prams.id
   let url = prams.url
@@ -42,7 +41,7 @@ const getHeroDetail = async(ctx, next) => {
     result = result.toString()
     result = JSON.parse(result)
   } else {
-    result = await HeroDetail(url, id)
+    result = await Story.getHeroDatail(url, id)
   }
   ctx.body = {
     success: true,
@@ -51,6 +50,6 @@ const getHeroDetail = async(ctx, next) => {
 }
 
 export default {
-  getHeroList,
-  getHeroDetail
+  fetchHeroList,
+  fetchHeroDetail
 }

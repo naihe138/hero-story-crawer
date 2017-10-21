@@ -1,0 +1,225 @@
+{
+  "yxid_a7": "124",
+  "ygzsybjt_5a": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170908/5555_6982859.jpg",
+  "ygzsysp_0e": {
+    "spjt_1b": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170906/4_191696_1115557.jpg",
+    "spvid_34": "",
+    "syspjtydd_3e": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170906/4_191696_1117399.jpg"
+  },
+  "yxsx_cd": {
+    "yxscnl_c2": "2",
+    "yxgjsh_13": "5",
+    "yxjnxg_2b": "9",
+    "yxssnd_c1": "7"
+  },
+  "ygzxyxsjsl_23": {
+    "sjsl_a0": "<p>作为王者峡谷的老牌英雄，周瑜在征战了一年多以后，已经渐渐难以适应峡谷当今的战斗环境。他对敌人的威胁依赖多技能连续命中，而在快节奏的战斗之中，这十分难以达成。正如有的玩家声音：周瑜缺少属于自己的特长，无论从射程、控制、爆发都被其他法师盖过。因此，寻找一项独特的能力，成为我们重塑周瑜时主要思考的问题。<br><o:p></o:p></p><p>这一次，我们尝试从现实世界寻找灵感。周瑜最为世人传唱的事迹，莫过于火烧赤壁。他在现实中克敌制胜的方法，是不是也能在王者峡谷中重现呢？赤壁之胜，源于周瑜对风与火的巧妙运用，用有限的火种与正确的风向，在敌阵中制造出了一片火海。于是便有了最初的思路：将“控风”与“引火”作为基础技能，将“风助火势”作为扩大火海的手段同时也是主要技巧空间，将“AOE范围最大”作为周瑜的核心特征。<br><o:p></o:p></p><p>重塑后的周瑜会是阵地战的能手，适当的布置火种位置并控制风向，可以让火焰铺满屏幕，让敌人始终处于灼烧之中。如果周瑜能够在队友保护之下推进，那么火海便会不可阻挡的向敌方藏身之处蔓延，让敌人无处躲藏。不过，敌人不会像赤壁之战的曹军一样铁索连船，要想让火焰吞噬敌人，周瑜在设置火种和风向时会有诸多考验。<o:p></o:p></p>"
+  },
+  "jdjq_7b": "2技能是核心技能，所以主要加2技能",
+  "ygzjn_d2": [
+    {
+      "JNJS_f3": "",
+      "JNMC_3d": "引燃",
+      "JNSM_58": "周瑜普攻和技能的火焰会对目标叠加引燃印记并持续一段时间。叠加一定层数后目标被引燃(可引燃敌方建筑)，造成一小段时间的减速，并且在短时间内造成一定的法术伤害。引燃期间目标不会再被叠加印记",
+      "WF_2e": "周瑜通过被动可以快速推线拿塔，并且让处于火区的敌人停留更长的时间",
+      "JNICON_a0": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170904/12400_1712708.png",
+      "jnjtydhb_b7": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170904/1_171597.jpg",
+      "jnjtydsb_ae": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170904/1_1717786.jpg",
+      "spjt_1b": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170904/1_1719436.jpg"
+    },
+    {
+      "JNJS_f3": "",
+      "JNMC_3d": "东风浩荡",
+      "JNSM_58": "周瑜周围产生单向风区，并持续一段时间。火区若被风区持续覆盖，则会朝风向方向蔓延出新的火区，火区每隔一小段时间就会对敌人造成一次法术伤害。风区内己方英雄移速提升，敌方英雄移速降低。狂风吹起瞬间，还会将身旁小范围内敌人朝风向方向击退并造成法术伤害",
+      "WF_2e": "风向决定了火区扩散的方向，需要准确的判断战场的位置以及随后的发展趋势",
+      "JNICON_a0": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170904/12410_172630.png",
+      "jnjtydhb_b7": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170904/2_1730237.jpg",
+      "jnjtydsb_ae": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170904/2_1732417.jpg",
+      "spjt_1b": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170904/2_1734321.jpg"
+    },
+    {
+      "JNJS_f3": "",
+      "JNMC_3d": "流火之矢",
+      "JNSM_58": "周瑜下令发射火箭矢轰击指定区域，火箭矢落地造成法术伤害，并制造一块火区，持续较长时间，期间每隔一小段时间就会对敌人造成一次法术伤害。火区的数量若超过一定数额将清除较早生成的火区。该技能可储备一定次数，并随时间获取使用次数(受冷却缩减影响)",
+      "WF_2e": "火区重叠的部分持续伤害不会叠加，所以需要让火区合理的分散分布于战场",
+      "JNICON_a0": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170904/12420_1852256.png",
+      "jnjtydhb_b7": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170904/3_1857631.jpg",
+      "jnjtydsb_ae": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170904/3_1858480.jpg",
+      "spjt_1b": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170904/3_1860912.jpg"
+    },
+    {
+      "JNJS_f3": "",
+      "JNMC_3d": "烽火赤壁",
+      "JNSM_58": "周瑜用火焰掠过扇形区域，造成法术伤害，火焰若掠过火区会激起一道火风，火风会造成额外法术伤害以及晕眩效果",
+      "WF_2e": "通过扩散开的火区可以发起大范围的控制和制造大量伤害，并且让处于控制中的敌人停留于火区受到更多的持续伤害",
+      "JNICON_a0": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170904/12430_1913743.png",
+      "jnjtydhb_b7": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170904/4_191696.jpg",
+      "jnjtydsb_ae": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170904/4_1918769.jpg",
+      "spjt_1b": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170904/4_1920940.jpg"
+    }
+  ],
+  "yxgllj_2d": "",
+  "mwtj_36": "法术攻击，法术穿透，法术吸血，冷却缩减",
+  "mwtjly_46": "符文主要补充法术穿透和法术吸血，高级符文补充一些冷却缩短",
+  "SJMW_81": [
+    {
+      "MWICON_c6": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170512/41_4139183.png",
+      "MWMC_f2": "阳炎"
+    },
+    {
+      "MWICON_c6": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170512/42_4142133.png",
+      "MWMC_f2": "渴血"
+    },
+    {
+      "MWICON_c6": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170616/_0517488.png",
+      "MWMC_f2": "憎恶"
+    }
+  ],
+  "WJMW_ed": [
+    {
+      "MWICON_c6": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images//mengyan_0093773.png",
+      "MWMC_f2": "梦魇"
+    },
+    {
+      "MWICON_c6": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170512/53_4158284.png",
+      "MWMC_f2": "献祭"
+    },
+    {
+      "MWICON_c6": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170908/2503_4528985.png",
+      "MWMC_f2": "贪婪"
+    }
+  ],
+  "ygzcz01_d9": {
+    "TJCZ_16": [
+      {
+        "CZMC_1a": "圣杯",
+        "CZICON_c4": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170519/shengbei_4635561.png"
+      },
+      {
+        "CZMC_1a": "秘法之靴",
+        "CZICON_c4": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170622/1424_2704971.png"
+      },
+      {
+        "CZMC_1a": "回响之杖",
+        "CZICON_c4": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170519/huixiang_4655101.png"
+      },
+      {
+        "CZMC_1a": "虚无法杖",
+        "CZICON_c4": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170519/xuwufazhang_4723642.png"
+      },
+      {
+        "CZMC_1a": "博学者之怒",
+        "CZICON_c4": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170908/1232_5450267.png"
+      },
+      {
+        "CZMC_1a": "贤者之书",
+        "CZICON_c4": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images//_0003255.png"
+      }
+    ],
+    "tjczms_e3": "法师出门装",
+    "tjczly_4e": "圣杯增加耗线续航能力，回响之杖增加走位能力，高冷却，高法术攻击可以直观的打出大量伤害"
+  },
+  "ygzcz02_6a": {
+    "TJCZ_16": [
+      {
+        "CZMC_1a": "冰霜法杖",
+        "CZICON_c4": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170519/bingshuang_4706172.png"
+      },
+      {
+        "CZMC_1a": "秘法之靴",
+        "CZICON_c4": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170622/1424_2704971.png"
+      },
+      {
+        "CZMC_1a": "辉月",
+        "CZICON_c4": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170908/1239_547851.png"
+      },
+      {
+        "CZMC_1a": "虚无法杖",
+        "CZICON_c4": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170519/xuwufazhang_4723642.png"
+      },
+      {
+        "CZMC_1a": "博学者之怒",
+        "CZICON_c4": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170908/1232_5450267.png"
+      },
+      {
+        "CZMC_1a": "贤者之书",
+        "CZICON_c4": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images//_0003255.png"
+      }
+    ],
+    "tjczms_e3": "法师出门装",
+    "tjczly_4e": "冰霜法杖提供减速，使得敌人更难摆脱火区，该出装拥有极高的生存能力和控制能力，但对蓝buff依赖较大"
+  },
+  "SYZYSX_e0": "<p><i>-</i>周瑜的被动可以对敌方建筑造成伤害</p>\r\n<p><i>-</i>火区只会朝风区的方向扩散，调整好风区的朝向</p>\r\n<p><i>-</i>在地形狭窄的地区作战时，火区可以将战场完全覆盖</p>",
+  "dssygyxs_3e": "<p><i>-</i>周瑜没有位移技能，刺客可以针对他</p>\r\n<p><i>-</i>注意火区和风向，避开蔓延开的火区</p>",
+  "XGYX_25": [
+    {
+      "ZJDDMC_64": "老夫子",
+      "ZJDDTX_37": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170908/139_4965255.jpg",
+      "zjddsm_61": "配合老夫子大招可以让敌人承受满额的火区伤害"
+    },
+    {
+      "ZJDDMC_64": "吕布",
+      "ZJDDTX_37": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170908/123_4985218.jpg",
+      "zjddsm_61": "配合吕布可以预先判断出战场位置，轻松让火区布满战场"
+    }
+  ],
+  "YZYX_79": [
+    {
+      "YZYXMC_cd": "兰陵王",
+      "YZYXTX_dc": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170908/153_5004347.jpg",
+      "yzyxsm_51": "兰陵王大招的隐身近身和二段位移斩杀，十分克制需要布置战场的周瑜"
+    },
+    {
+      "YZYXMC_cd": "百里守约",
+      "YZYXTX_dc": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170908/196_5017221.jpg",
+      "yzyxsm_51": "百里守约超远的攻击范围超出了周瑜作战半径"
+    }
+  ],
+  "YZYX_9c": [
+    {
+      "BYZYXMC_f6": "黄忠",
+      "BYZYXTX_4f": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170908/192_5040387.jpg",
+      "byzyxsm_c1": "没有人可以在周瑜的火区范围内进行站桩输出"
+    },
+    {
+      "BYZYXMC_f6": "项羽",
+      "BYZYXTX_4f": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170908/135_5058987.jpg",
+      "byzyxsm_c1": "直来直去的英雄会被预判移动路线，面对他的会是刀山火海"
+    }
+  ],
+  "ygzyxhqfs_f7": [
+    ""
+  ],
+  "ygzbjt_bf": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170612/11_3030769.jpg",
+  "ymtitle_d2": "英雄重塑-周瑜",
+  "blzzzslsjsldwb_f5": "重塑思路",
+  "blzmslgdwb_8f": "",
+  "sfzx_ab": {
+    "tab01_d3": "首页",
+    "tab02_9b": "重塑思路",
+    "tab03_0f": "",
+    "tab04_21": "技能阐述",
+    "tab05_76": "搭配技巧",
+    "tab06_98": ""
+  },
+  "blzpcyxbjgs_e5": "<p>“我出身江东名门，毕业于稷下学院，出仕为海军大都督，以吴国的守护者之称扬名东海。世人眼里，我的人生光辉璀璨。” </p><p>“叫孔明的家伙也许造成了一些阴影，但最终他还是会输给我，毋庸置疑。” </p><p>“从稷下学成后，我回到出生的江东，和最好的兄弟孙策一道，以谋略和武勇夺取吴郡，建立我们新的国家。” </p><p>“那时候的我意气风发，自信而无所畏惧。” </p><p>“直到生命中出现了意外。我的意外叫小乔。” </p><p>“她的出现像一道微风，让我得以放下重责自由呼吸；也揭开了惨淡的未来，让我陷入深渊。” </p><p>“小乔，流淌着魔道家族的血液。” </p><p>“从认识她开始，那份异乎寻常的魔道天赋就让我疑心，调查结果打破侥幸：乔氏热衷于以血统传承魔道。小乔和大乔姐妹，与其说是家族的女儿，不如说是家族的作品。” </p><p>“乔氏的野心大得出乎意料。贪婪和阴谋带来的裂隙在阿策和大乔之间流动，最终导致了无可挽回的后果。我失去了兄弟，大乔失去了爱人，并愤而离开。” </p><p>“我能够将生活中最残酷的一面揭示给那纯洁无暇的少女吗？不，绝不。” </p><p>“要保护她，只剩下一个办法。” </p><p>“不久，乔氏的族长暴毙了。研究魔道的庄园则被乱兵毁掉。” </p><p>“这件事本应天衣无缝。可一个老家伙找上门来。他自称叫姜子牙。” </p><p>“他讲了很多。西方的同盟必然会与东方的帝国一战，魔种将趁机卷土重来。大陆会在反复的战争与冲击中崩溃。” </p><p>“我不动声色：关我什么事？” </p><p>“‘我欣赏你为那个女孩做的一切。可据我所知，为寻求魔道之力这么做的家族，并不仅有乔氏。他们寻求力量，最终让自己变成魔种那副人不人，鬼不鬼的样子。你还相信夫子那套无论出身如何都该和平共处的鬼话吗？你的行为已经背叛了自己。’老家伙说。” </p><p>“老头揭开了我深埋的伤痕和恐惧。” </p><p>“‘你想让我做什么？’我问。” </p><p>“‘在这个世界上，还存在第三种力量’他抛出惊天言论，并讲述了自己在大河流域的森林中沉思的发现，还有太古毁灭的‘日之塔’的历史。” </p><p>“我颤栗了。他想要引出这股力量，想要驾驭它，想要……” </p><p>“但他的确说服了我。我想守护主公和香香，我想守护江东和吴国，我更想守护小乔。” </p><p>“所以，要做自己该做的事。按老头的说法，即使付出众多生命的代价也在所不惜。它会因破坏被唤醒……” </p><p>“一场战争正中下怀。就在那个叫赤壁的地方，东海的血族，魏蜀吴三国，数十万大军齐聚于此，史无前例的毁灭” </p><p>“有个东西，叫东风祭坛。” </p><p><br></p><p>“身为男人，无法让步的只有两件事：胜利和小乔。”</p>",
+  "blzpcyxdtbtmcc930x680_8d": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170626/_896730.png",
+  "blzjbyxdw_5f": "法师 远程消耗",
+  "blzjbyxdtcc660x384_84": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170623/124212_6777698.jpg",
+  "yxzs_36": [
+    {
+      "yxzspc_38": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170703/_6340228.jpg",
+      "yxzsydd_3b": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170703/750-712-1_6365762.jpg",
+      "yxzstx_1d": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170703/90-90-1_6368488.jpg",
+      "yxch_ce": "铁血都督",
+      "yxzsmc_ae": "周瑜",
+      "yxszdw_e0": "2",
+      "sxsj_24": "2017.09.12"
+    }
+  ],
+  "ygzyxhqfsydd_29": [
+    "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170703/660-410-1_7032324.jpg"
+  ],
+  "bjgstppc_53": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170703/546-358-1_7040484.jpg",
+  "fx_ec": "英雄重塑【铁血都督-周瑜】9月12日上线"
+}
