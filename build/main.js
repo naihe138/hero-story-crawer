@@ -370,37 +370,36 @@ var fetchVoiceDetail = function () {
             result = null;
 
             if (!(exists && !isNew)) {
-              _context3.next = 15;
+              _context3.next = 14;
               break;
             }
 
-            console.log(1);
-            _context3.next = 10;
+            _context3.next = 9;
             return __WEBPACK_IMPORTED_MODULE_1_fs___default.a.readFileSync(filePath);
 
-          case 10:
+          case 9:
             result = _context3.sent;
 
             result = result.toString();
             result = JSON.parse(result);
-            _context3.next = 18;
+            _context3.next = 17;
             break;
 
-          case 15:
-            _context3.next = 17;
+          case 14:
+            _context3.next = 16;
             return __WEBPACK_IMPORTED_MODULE_3__cr_appreciate__["a" /* default */].getVoiceDetail(id);
 
-          case 17:
+          case 16:
             result = _context3.sent;
 
-          case 18:
+          case 17:
 
             ctx.body = {
               success: true,
               data: result
             };
 
-          case 19:
+          case 18:
           case 'end':
             return _context3.stop();
         }
@@ -573,39 +572,38 @@ var fetchHeroDetail = function () {
             result = null;
 
             if (!(exists && !isNew)) {
-              _context2.next = 16;
+              _context2.next = 15;
               break;
             }
 
-            console.log(1);
-            _context2.next = 11;
+            _context2.next = 10;
             return __WEBPACK_IMPORTED_MODULE_2_fs___default.a.readFileSync(filePath);
 
-          case 11:
+          case 10:
             result = _context2.sent;
 
             result = result.toString();
             result = JSON.parse(result);
-            _context2.next = 20;
+            _context2.next = 19;
             break;
 
-          case 16:
+          case 15:
             if (!/^http/.test(url)) {
               url = 'https:' + url;
             }
-            _context2.next = 19;
+            _context2.next = 18;
             return __WEBPACK_IMPORTED_MODULE_1__cr_story__["a" /* default */].getHeroDatail(url, id);
 
-          case 19:
+          case 18:
             result = _context2.sent;
 
-          case 20:
+          case 19:
             ctx.body = {
               success: true,
               data: result
             };
 
-          case 21:
+          case 20:
           case 'end':
             return _context2.stop();
         }
@@ -1137,7 +1135,11 @@ var getHeroDatail = function () {
             if ($('#heroStory').length) {
               heroName = $('.hero_name pf').text();
               $('#heroStory p').each(function () {
-                heroDetail.push($(this).text());
+                var text = $(this).text().trim();
+                heroDetail.push({
+                  type: 'text',
+                  text: text
+                });
               });
             } else if ($('.textboxs').length) {
               $('.textboxs p').each(function () {
@@ -1148,7 +1150,7 @@ var getHeroDatail = function () {
                     text: 'https:' + src
                   });
                 } else {
-                  var text = $(this).text();
+                  var text = $(this).text().trim();
                   heroDetail.push({
                     type: 'text',
                     text: text

@@ -63,7 +63,11 @@ const getHeroDatail = async(url, _id) => {
   if ($('#heroStory').length) {
     heroName = $('.hero_name pf').text()
     $('#heroStory p').each(function () {
-      heroDetail.push($(this).text())
+      let text = $(this).text().trim()
+      heroDetail.push({
+        type: 'text',
+        text: text
+      })
     })
   } else if ($('.textboxs').length) {
     $('.textboxs p').each(function () {
@@ -74,7 +78,7 @@ const getHeroDatail = async(url, _id) => {
           text: 'https:' + src
         })
       } else {
-        let text = $(this).text()
+        let text = $(this).text().trim()
         heroDetail.push({
           type: 'text',
           text: text

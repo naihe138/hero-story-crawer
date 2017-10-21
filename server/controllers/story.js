@@ -36,7 +36,6 @@ const fetchHeroDetail = async(ctx, next) => {
   let result = null
 
   if (exists && !isNew) {
-    console.log(1)
     result = await fs.readFileSync(filePath)
     result = result.toString()
     result = JSON.parse(result)
