@@ -1,5 +1,5 @@
 <template>
   <footer>
-    Visit our website for more documentation : <a href="https://nuxtjs.org" target="_blank">nuxtjs.org</a>
+    王者荣耀故事站&nbsp;&nbsp;<a href="">by: naice</a>
   </footer>
 </template>
