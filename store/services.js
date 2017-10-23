@@ -21,6 +21,21 @@ class Service {
   getVoiceNav() {
     return axios.get(`${baseUrl}/api/voiceNav`)
   }
+  getVoiceDetail(id) {
+    return axios.get(`${baseUrl}/api/voiceDetail?id=${id}`)
+  }
+  getMusic() {
+    return axios.get(`${baseUrl}/api/music`)
+  }
+  getWord() {
+    return axios.get(`${baseUrl}/api/word`)
+  }
+  getWordNav(id) {
+    return axios.get(`${baseUrl}/api/wordNav?id=${id}`)
+  }
+  getWordDetail(prams) {
+    return axios.post(`${baseUrl}/api/wordDetail`, prams)
+  }
 }
 
 export default new Service()

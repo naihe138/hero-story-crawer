@@ -24,5 +24,26 @@ export default {
     let res = await Services.getVoiceNav()
     state.voiceNav = res.data.data
     return res.data.data
+  },
+  async getVoiceDetail({ commit, state }, id) {
+    let res = await Services.getVoiceDetail(id)
+    return res.data.data
+  },
+  async getMusic({ commit, state }) {
+    let res = await Services.getMusic()
+    return res.data.data
+  },
+  async getWord({ commit, state }) {
+    let res = await Services.getWord()
+    state.wordItem = res.data.data
+    return res.data.data
+  },
+  async getWordNav({ commit, state }, id) {
+    let res = await Services.getWordNav(id)
+    return res.data.data
+  },
+  async getWordDetail({ commit, state }, prams) {
+    let res = await Services.getWordDetail(prams)
+    return res.data.data
   }
 }

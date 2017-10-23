@@ -14,7 +14,8 @@ const createStore = () => {
       hero: {},
       skin: [],
       voiceNav: [],
-      voiceDetail: {}
+      voiceDetail: {},
+      wordItem: []
     },
     getters,
     actions,
