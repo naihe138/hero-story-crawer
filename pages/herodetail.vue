@@ -21,6 +21,11 @@
 
 <script>
 export default {
+	head () {
+    return {
+      title: `英雄详情`
+    }
+  },
 	data() {
 		return {
 			heroDetail: {},

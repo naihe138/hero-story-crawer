@@ -7,6 +7,11 @@
 <script>
 import {mapState} from 'vuex'
 export default {
+	head () {
+    return {
+      title: `皮肤鉴赏`
+    }
+  },
 	computed: mapState({
 		skin: state => state.skin
 	}),

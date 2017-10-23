@@ -13,6 +13,11 @@
 </template>
 <script>
 export default {
+	head () {
+    return {
+      title: `世界`
+    }
+  },
 	data() {
 		return {
 			word: []

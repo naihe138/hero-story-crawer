@@ -34,6 +34,11 @@
 <script>
 import {mapState} from 'vuex'
 export default {
+	head () {
+    return {
+      title: `英雄语音鉴赏`
+    }
+  },
 	data () {
 		return {
 			showInde: 0,

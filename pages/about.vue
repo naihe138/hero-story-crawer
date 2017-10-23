@@ -12,7 +12,7 @@ export default {
   },
   head () {
     return {
-      title: `About Page (${this.name}-side)`
+      title: `关于本站`
     }
   }
 }

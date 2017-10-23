@@ -11,6 +11,11 @@
 
 <script>
 export default {
+	head () {
+    return {
+      title: `音乐鉴赏`
+    }
+  },
 	data() {
 		return {
 			music: {},

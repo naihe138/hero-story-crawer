@@ -16,6 +16,11 @@
 <script>
 import {mapState} from 'vuex'
 export default {
+  head () {
+    return {
+      title: `首页-英雄列表`
+    }
+  },
   data () {
     return{
       hero: {},

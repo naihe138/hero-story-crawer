@@ -17,6 +17,11 @@
 </template>
 <script>
 export default {
+	head () {
+    return {
+      title: `世界详情`
+    }
+  },
 	data() {
 		return {
 			wordNav: [],
