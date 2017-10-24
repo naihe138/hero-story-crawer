@@ -1,6 +1,6 @@
 <template>
 	<div>
-		<img v-for="(item, index) in skin" :key="index" :src="item.img" @click="toSkin(item.url)">
+		<img v-for="(item, index) in skin" :key="index" v-lazyload="item.img" @click="toSkin(item.url)">
 	</div>
 </template>
 

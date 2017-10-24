@@ -6,7 +6,7 @@
     </div>
     <div class="imagebox">
       <img v-for="(item, index) in hero.heroList" :key="index" 
-           :src="item.heroimg" 
+           v-lazyload="item.heroimg" 
            :alt="item.title" 
            @click="toDetail(index)">
     </div>
