@@ -6,22 +6,27 @@
 
 <script>
 import {mapState} from 'vuex'
+let skinList = require('../server/crawerdb/skin.json')
 export default {
 	head () {
     return {
       title: `皮肤鉴赏`
     }
-  },
-	computed: mapState({
-		skin: state => state.skin
-	}),
+	},
+	data () {
+		return {
+			skin: skinList
+		}
+	},
 	methods: {
 		toSkin(url) {
 			location.href = url
 		}
 	},
 	beforeMount() {
-		this.$store.dispatch('getSkin')
+		this.$store.dispatch('getSkin').then(res => {
+			this.skin = res
+		})
 	}
 }
 </script>

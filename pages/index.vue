@@ -15,6 +15,7 @@
 
 <script>
 import {mapState} from 'vuex'
+let heroList = require('../server/crawerdb/heroList.json')
 export default {
   head () {
     return {
@@ -24,7 +25,7 @@ export default {
   data () {
     return{
       hero: {},
-      allHero: []
+      allHero: heroList
     }
   },
   methods: {
