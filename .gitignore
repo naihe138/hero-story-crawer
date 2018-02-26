@@ -2,6 +2,7 @@
 node_modules
 
 api/node_modules
+api/server/crawerdb
 view/node_modules
 view/.nuxt
 
