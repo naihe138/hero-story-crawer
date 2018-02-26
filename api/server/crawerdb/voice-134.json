@@ -1,0 +1,75 @@
+{
+  "YXMC_8f": "达摩",
+  "YXTX_8d": "",
+  "yxbm_72": "",
+  "yxlx_32": "",
+  "yxcv_ff": "蒋可",
+  "yxgs_28": "",
+  "yyjs_1e": "",
+  "yxjl_38": "",
+  "lssdyx_94": "",
+  "gszbannert01_ff": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/D-DM_652865.jpg",
+  "gszbannert02_08": "",
+  "lbbanner_f4": [
+    ""
+  ],
+  "yxpfyy_fe": [
+    {
+      "yxcv_ff": "蒋可",
+      "pfmc_ff": "拳僧",
+      "pfbanner_ed": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/D-DM_6552677.jpg",
+      "yylb1_c8": [
+        {
+          "yywa1_f2": "达摩拳僧语音1",
+          "yyyp1_1f": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/audios/damo_hall_1_6558161.wav"
+        },
+        {
+          "yywa1_f2": "达摩拳僧语音2",
+          "yyyp1_1f": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/audios/tangsanzang_hall_3_6564982.wav"
+        },
+        {
+          "yywa1_f2": "达摩拳僧语音3",
+          "yyyp1_1f": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/audios/tangsanzang_hall_move_1_6572893.wav"
+        }
+      ]
+    },
+    {
+      "yxcv_ff": "王梓",
+      "pfmc_ff": "拳王",
+      "pfbanner_ed": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/D-DMqh_6608328.jpg",
+      "yylb1_c8": [
+        {
+          "yywa1_f2": "达摩拳王语音1",
+          "yyyp1_1f": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/audios/damo_quanhuang_hall_1_6625697.wav"
+        },
+        {
+          "yywa1_f2": "达摩拳王语音2",
+          "yyyp1_1f": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/audios/damo_quanhuang_hall_2_6633647.wav"
+        },
+        {
+          "yywa1_f2": "达摩拳王语音3",
+          "yyyp1_1f": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/audios/damo_quanhuang_hall_3_6640640.wav"
+        }
+      ]
+    },
+    {
+      "yxcv_ff": "李正翔",
+      "pfmc_ff": "大发明家",
+      "pfbanner_ed": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/D-dmdfmj_6669753.jpg",
+      "yylb1_c8": [
+        {
+          "yywa1_f2": "达摩大发明家语音1",
+          "yyyp1_1f": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/audios/damo_zhengqipengke_hall_1_6685312.wav"
+        },
+        {
+          "yywa1_f2": "达摩大发明家语音2",
+          "yyyp1_1f": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/audios/damo_zhengqipengke_hall_2_6693827.wav"
+        },
+        {
+          "yywa1_f2": "达摩大发明家语音3",
+          "yyyp1_1f": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/audios/damo_zhengqipengke_hall_3_669917.wav"
+        }
+      ]
+    }
+  ]
+}

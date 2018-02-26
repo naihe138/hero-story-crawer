@@ -1,0 +1,35 @@
+{
+  "YXMC_8f": "姜子牙",
+  "YXTX_8d": "",
+  "yxbm_72": "",
+  "yxlx_32": "",
+  "yxcv_ff": "王玮",
+  "yxgs_28": "",
+  "yyjs_1e": "",
+  "yxjl_38": "",
+  "lssdyx_94": "",
+  "gszbannert01_ff": "https://game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/J-jzy_1389992.jpg",
+  "gszbannert02_08": "",
+  "lbbanner_f4": [
+    ""
+  ],
+  "yxpfyy_fe": {
+    "yxcv_ff": "王玮",
+    "pfmc_ff": "太古魔导",
+    "pfbanner_ed": "https://game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/J-jzy_1415780.jpg",
+    "yylb1_c8": [
+      {
+        "yywa1_f2": "姜子牙-太古魔导语音1",
+        "yyyp1_1f": "https://game.gtimg.cn/images/yxzj/wtc_static_yxzj/audios/jiangziya_hall_1_1422741.wav"
+      },
+      {
+        "yywa1_f2": "姜子牙-太古魔导语音2",
+        "yyyp1_1f": "https://game.gtimg.cn/images/yxzj/wtc_static_yxzj/audios/jiangziya_hall_2_1430758.wav"
+      },
+      {
+        "yywa1_f2": "姜子牙-太古魔导语音3",
+        "yyyp1_1f": "https://game.gtimg.cn/images/yxzj/wtc_static_yxzj/audios/jiangziya_hall_3_1441443.wav"
+      }
+    ]
+  }
+}

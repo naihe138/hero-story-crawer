@@ -1,0 +1,35 @@
+{
+  "YXMC_8f": "哪吒",
+  "YXTX_8d": "",
+  "yxbm_72": "",
+  "yxlx_32": "",
+  "yxcv_ff": "李正翔",
+  "yxgs_28": "",
+  "yyjs_1e": "",
+  "yxjl_38": "",
+  "lssdyx_94": "",
+  "gszbannert01_ff": "https://game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/nz_8388947.jpg",
+  "gszbannert02_08": "",
+  "lbbanner_f4": [
+    ""
+  ],
+  "yxpfyy_fe": {
+    "yxcv_ff": "李正翔",
+    "pfmc_ff": "桀骜炎枪",
+    "pfbanner_ed": "https://game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/nz_8411962.jpg",
+    "yylb1_c8": [
+      {
+        "yywa1_f2": "哪吒-桀骜炎枪语音1",
+        "yyyp1_1f": "https://game.gtimg.cn/images/yxzj/wtc_static_yxzj/audios/nezha_hall_1_8418423.wav"
+      },
+      {
+        "yywa1_f2": "哪吒-桀骜炎枪语音2",
+        "yyyp1_1f": "https://game.gtimg.cn/images/yxzj/wtc_static_yxzj/audios/nezha_hall_2_843127.wav"
+      },
+      {
+        "yywa1_f2": "哪吒-桀骜炎枪语音3",
+        "yyyp1_1f": "https://game.gtimg.cn/images/yxzj/wtc_static_yxzj/audios/nezha_hall_3_8455657.wav"
+      }
+    ]
+  }
+}

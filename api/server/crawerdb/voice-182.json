@@ -1,0 +1,266 @@
+{
+  "yxid_a7": "182",
+  "ygzsybjt_5a": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170512/1_0870976.jpg",
+  "ygzsysp_0e": {
+    "spjt_1b": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170703/1_3835139.jpg",
+    "spvid_34": "i050276gb4d",
+    "syspjtydd_3e": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170630/4_6250973.jpg"
+  },
+  "yxsx_cd": {
+    "yxscnl_c2": "2",
+    "yxgjsh_13": "6",
+    "yxjnxg_2b": "8",
+    "yxssnd_c1": "6"
+  },
+  "ygzxyxsjsl_23": {
+    "gszurl_c7": {
+      "gszurlydhb_c7": "http://pvp.qq.com/webplat/info/news_version3/15592/27363/28440/m17324/201705/582816.shtml",
+      "gszurlydsb_57": "http://pvp.qq.com/webplat/info/news_version3/15592/27363/28440/m17324/201705/582816.shtml"
+    },
+    "sjsl_a0": "<p>干将是一个高挑战、高收益的心流型远程狙击法师，完全依靠精准的技能施法仅仅是一个合格的干将的基础要求。当视野外或无视野的时候，沉浸在心流中的干将玩家，甩狙盲剑都会让干将使用者获得巨大的满足。以“三剑”为标签的干将，在“三剑秒”的心流产生同时会有高度的兴奋及充实感，是干将玩家的乐趣所在。<o:p></o:p></p>"
+  },
+  "jdjq_7b": "主二副一，有大点大",
+  "ygzjn_d2": [
+    {
+      "JNJS_f3": "p0502knoazz",
+      "JNMC_3d": "嗜杀剑气",
+      "JNSM_58": "被动：飞剑攻击会残留持续5秒的雌雄两种剑气，剑气伤害会被其他飞剑触发，贴身范围未成型的剑胚无法残留剑气。剑气造成法术伤害。普攻用未成型的飞剑造成法术伤害。",
+      "WF_2e": "利用被动伤害特性是让干将打出更多输出的重要保证。",
+      "JNICON_a0": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170512/_116015.png",
+      "jnjtydhb_b7": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170512/_511453.gif",
+      "jnjtydsb_ae": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170512/_511749.gif",
+      "spjt_1b": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170512/0_6054720.jpg"
+    },
+    {
+      "JNJS_f3": "a0502vs9mu5",
+      "JNMC_3d": "护主邪冢",
+      "JNSM_58": "干将将剑冢用力向前推刺出并造成法术伤害，范围内敌人被朝同一方向击飞击退。被动：每次击败英雄或助攻会增加自身永远法术强度15点，最高300点。",
+      "WF_2e": "这是干将莫邪的主要控制技能，在敌人切入时利用此技能将对手击飞。",
+      "JNICON_a0": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170512/1_1670164.png",
+      "jnjtydhb_b7": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170512/3_523050.gif",
+      "jnjtydsb_ae": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170512/3_5234344.gif",
+      "spjt_1b": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170512/1_6061211.jpg"
+    },
+    {
+      "JNJS_f3": "e05028npuym",
+      "JNMC_3d": "雌雄双剑.雄",
+      "JNSM_58": "凌空成剑，释放雄剑，雌雄双剑以不同的曲型弹道飞行对敌方造成法术伤害。",
+      "WF_2e": "这个技能需要准确的把控技能弹道方向，调整自己的走位，并且需要良好的预判，雌雄双箭都命中将产生高额的输出伤害。",
+      "JNICON_a0": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170512/2_1927266.png",
+      "jnjtydhb_b7": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170512/1_5297638.gif",
+      "jnjtydsb_ae": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170512/1_5301496.gif",
+      "spjt_1b": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170512/2_6069849.jpg"
+    },
+    {
+      "JNJS_f3": "s050268lm1y",
+      "JNMC_3d": "雌雄双剑.雌",
+      "JNSM_58": "凌空成剑，释放雌剑，雌雄双剑以不同的曲型弹道飞行对敌方造成法术伤害。",
+      "WF_2e": "这个技能需要准确的把控技能弹道方向，调整自己的走位，并且需要良好的预判，雌雄双箭都命中将产生高额的输出伤害。",
+      "JNICON_a0": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170512/3_1982253.png",
+      "jnjtydhb_b7": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170512/2_5360673.gif",
+      "jnjtydsb_ae": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170512/2_5365390.gif",
+      "spjt_1b": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170512/3_6076917.jpg"
+    },
+    {
+      "JNJS_f3": "p0502m3f2in",
+      "JNMC_3d": "莫邪夺魂",
+      "JNSM_58": "莫邪携雌雄双剑合一，对沿路的敌人造成法术伤害。对英雄额外造成巨额减速，2秒逐步恢复正常。命中敌方英雄会减少雌雄双剑一半最大CD。被动：莫邪时刻观察战场，为干将提升10%的视野距离。",
+      "WF_2e": "这是干将莫邪重要的AOE输出技能，能造成高额范围伤害。技能范围很长。可以进行远程精确制导，但需要良好的预判走位，配合被动技能效果极佳。",
+      "JNICON_a0": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170512/4_2027733.png",
+      "jnjtydhb_b7": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170512/4_5441151.gif",
+      "jnjtydsb_ae": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170512/4_5450551.gif",
+      "spjt_1b": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170512/4_6084655.jpg"
+    }
+  ],
+  "yxgllj_2d": "//pvp.qq.com/ingame/all/index.shtml?route=/strategy/heroBook/182",
+  "mwtj_36": "法术伤害、法术穿透、冷却缩减、法术吸血",
+  "mwtjly_46": "法术攻击力提升输出能力，冷却缩减提升技能施放频率，法术吸血能很好的在前期保证续航能力",
+  "SJMW_81": [
+    {
+      "MWICON_c6": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170512/41_4139183.png",
+      "MWMC_f2": "阳炎"
+    },
+    {
+      "MWICON_c6": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170512/42_4142133.png",
+      "MWMC_f2": "渴血"
+    },
+    {
+      "MWICON_c6": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170512/43_4146134.png",
+      "MWMC_f2": "侵蚀"
+    }
+  ],
+  "WJMW_ed": [
+    {
+      "MWICON_c6": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170512/51_4151928.png",
+      "MWMC_f2": "圣人"
+    },
+    {
+      "MWICON_c6": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170512/53_4158284.png",
+      "MWMC_f2": "献祭"
+    },
+    {
+      "MWICON_c6": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170512/52_4155893.png",
+      "MWMC_f2": "轮回"
+    }
+  ],
+  "ygzcz01_d9": {
+    "TJCZ_16": [
+      {
+        "CZMC_1a": "圣杯",
+        "CZICON_c4": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170519/shengbei_4635561.png"
+      },
+      {
+        "CZMC_1a": "痛苦面具",
+        "CZICON_c4": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170519/tongku_47744.png"
+      },
+      {
+        "CZMC_1a": "冰霜法杖",
+        "CZICON_c4": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170519/bingshuang_4706172.png"
+      },
+      {
+        "CZMC_1a": "冷静之靴",
+        "CZICON_c4": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170519/lengjing_4648940.png"
+      },
+      {
+        "CZMC_1a": "回响之杖",
+        "CZICON_c4": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170519/huixiang_4655101.png"
+      },
+      {
+        "CZMC_1a": "虚无法杖",
+        "CZICON_c4": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170519/xuwufazhang_4723642.png"
+      }
+    ],
+    "tjczms_e3": "顺风局出装",
+    "tjczly_4e": "前期的蓝量恢复能力，中期增强法术伤害以及需要有较好的走位与操作技巧，伤害输出很高"
+  },
+  "ygzcz02_6a": {
+    "TJCZ_16": [
+      {
+        "CZMC_1a": "近卫荣耀",
+        "CZICON_c4": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170512/1326_4783858.png"
+      },
+      {
+        "CZMC_1a": "圣杯",
+        "CZICON_c4": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170519/shengbei_4635561.png"
+      },
+      {
+        "CZMC_1a": "贤者之书",
+        "CZICON_c4": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images//_0003255.png"
+      },
+      {
+        "CZMC_1a": "极寒风暴",
+        "CZICON_c4": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images//pic_zb3_4462646.png"
+      },
+      {
+        "CZMC_1a": "冷静之靴",
+        "CZICON_c4": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170519/lengjing_4648940.png"
+      },
+      {
+        "CZMC_1a": "梦魇之牙",
+        "CZICON_c4": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170512/12211_4886971.png"
+      }
+    ],
+    "tjczms_e3": "团战法师",
+    "tjczly_4e": "提升血量增强团队保护，自己有很好的续航和持续输出能力，以肉装和法术肉装为主，增强自保能力，技能配合装备能对团队形成很好的保护能力"
+  },
+  "SYZYSX_e0": "<p><i>-</i>干将莫邪被动技能是是否能打出足够高伤害的重要保证</p>\r\n<p><i>-</i>干将莫邪雌雄双箭释放难度高收益也高，所以需要精准的预判对手走位</p>\r\n<p><i>-</i>干将莫邪的大招最好击中有被动剑气残留的敌方英雄，能造成高额AOE伤害</p>",
+  "dssygyxs_3e": "<p><i>-</i>可以通过走位或位移躲过干将莫邪的所有技能</p>\r\n<p><i>-</i>干将莫邪身为法师很脆，所以刺客可以趁其不备贴近将他击杀</p>\r\n<p><i>-</i>不要低估干将莫邪的伤害和射程</p>",
+  "XGYX_25": [
+    {
+      "ZJDDMC_64": "项羽",
+      "ZJDDTX_37": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170512/135_5103608.jpg",
+      "zjddsm_61": "项羽可以保护干将莫邪更好的输出"
+    },
+    {
+      "ZJDDMC_64": "安琪拉",
+      "ZJDDTX_37": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170512/142_5119677.jpg",
+      "zjddsm_61": "安琪拉与干将莫邪的超远程输出能在远距离造成高额伤害"
+    }
+  ],
+  "YZYX_79": [
+    {
+      "YZYXMC_cd": "虞姬",
+      "YZYXTX_dc": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170512/174_5160321.jpg",
+      "yzyxsm_51": "虞姬虽然有物理免疫，面对法术强大的干将还是望尘莫及"
+    },
+    {
+      "YZYXMC_cd": "鲁班",
+      "YZYXTX_dc": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170505/luban_3192812.jpg",
+      "yzyxsm_51": "鲁班没有位移的脆皮射手"
+    }
+  ],
+  "YZYX_9c": [
+    {
+      "BYZYXMC_f6": "兰陵王",
+      "BYZYXTX_4f": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170512/153_5281941.jpg",
+      "byzyxsm_c1": "干将莫邪容易被兰陵王抓住后秒掉"
+    },
+    {
+      "BYZYXMC_f6": "花木兰",
+      "BYZYXTX_4f": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170512/154_529369.jpg",
+      "byzyxsm_c1": "花木兰的超高爆发输出能力能快速击杀走位不慎的干将莫邪"
+    }
+  ],
+  "ygzyxhqfs_f7": [
+    "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170515/_7475968.jpg",
+    "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170517/_7489257_5812226.jpg",
+    "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170517/_5814677.jpg"
+  ],
+  "ygzbjt_bf": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170512/09_2711325.jpg",
+  "ymtitle_d2": "新英雄-干将莫邪",
+  "blzzzslsjsldwb_f5": "设计思路",
+  "blzmslgdwb_8f": "",
+  "sfzx_ab": {
+    "tab01_d3": "首页",
+    "tab02_9b": "设计思路",
+    "tab03_0f": "",
+    "tab04_21": "技能阐述",
+    "tab05_76": "搭配技巧",
+    "tab06_98": "获取方式"
+  },
+  "blzpcyxbjgs_e5": "<p>大河之畔生活着贫寒的工匠夫妇。两人青梅竹马，相依为命。丈夫干将别无所长，只是一味痴迷于铸剑。废弃掉的剑在门外堆成了剑冢。村人都嘲笑这个不通世事的家伙，唯有妻子无怨无悔支持着他。</p><p>干将内心同样愧疚于妻子不能过上更好的生活。他只懂得铸剑，便希望能借此扬名，那样终究会有令妻子自豪和荣耀的一天。于是他带着作品去拜访各地的铸剑师，并挑战他们。他削断无数名匠之作，很快让自己的名字传遍楚汉之地。自然，被砸掉招牌的铸剑师们也对他恨之入骨。世间公认有位绝代的大师。人们都说他的铸剑不仅削铁如泥，而且栖息着魂灵。大师许多弟子都败于干将之手，他们联合起来向师傅痛诉。于是大师向干将送上邀请拜访的帖子。胜过大师，自己就是名副其实的当世铸剑第一人。可他如约登门时，大师甚至没有露面，只命弟子持剑在门口迎接，轻轻一挥就将干将之剑斩成几半。匠人们出了一口恶气！他们放声嘲笑干将，把过往的耻辱加倍回报给他。</p><p>干将落荒而逃，失败在心中灼烧。他回到家中重复起枯燥的铸造生涯。熔炉四时不熄，每把剑都比前一把更加锋利，可它们始终是没有生命的铁片。死的剑和活的剑，犹如天上地下般的差距。他逐渐执念于铸剑，完全忘掉了初衷，连妻子的身体日渐衰弱都没有注意到。铸剑疯子的事传到阴阳家们耳中。自称为东皇太一的男人召见铸剑师，领他登上祭祀之地，那里矗立着一把剑。干将立刻认出这是大师的作品。“这把剑守护着太古的奇迹。它的名字叫巨阙，里面栖息着魂灵：它是剑——更是盾牌。接近它的人都会被剑锋撕裂。”东皇太一的计划困难而有效：锻造更锋利的剑，斩断它。“帮我得到奇迹，你就可达成心愿，成为世间无可逾越的铸剑师。在此之前，让我先告诉你让剑活过来的秘法吧。”干将浑身颤栗着，不敢相信耳中所闻。东皇太一交给他从太古保存下来的精铁。炉火燃烧了三天三夜，精铁无论如何都不能融化。干将眼里布满血丝，内心天人交战，需要一个生命才能让剑活过来。他太专注，没有注意到妻子悄无声息接近，眼神温柔而忧伤。她收到匿名来信，信上写着实现丈夫心愿的方法。自己的身体早已病入膏肓，命中注定要拿去成全爱人。干将从火炉的阴影中抬起头，正好迎上妻子最后的笑容——下一刻她便猛然跳入炉火中。</p><p>撕心裂肺的呼唤和陡然明亮的铁水席卷内心，另一手下意识握紧了铁锤。痛苦转瞬即逝，成功的狂热反倒熔炼了太古的精铁。天明时分，迄今最杰出的作品诞生了，里面栖息着魂灵。男人怀抱宝剑，呢喃着妻子的名字：莫邪。嘴角微微上翘：最爱的妻子和剑，如今是一体了。正如东皇太一计划的那样，莫邪剑斩断了巨阙，奇迹“转生之术”的力量被解放出来。这是太古建造的最后奇迹。付出那么多，终于可以凌驾世间所有铸剑者之上了！干将毫不犹豫扑向光辉中。炉火般的灼热力量包裹着他，魔道千锤百炼着血肉之躯，令其坚硬而锋利。他实现至高的愿望，将自己也锻造为剑。</p><p>故事并未到此结束。干将付出全部所有，现在他需要证明自己。于是他重访大师住所，去回报过往的羞辱。可全部执念面对冷冰冰的墓石却戛然而止：大师早已逝去多年。支撑人生的信念顿时崩塌，统统化作疯狂和绝望。怀抱中的莫邪剑变幻为妻子的身影，轻声安慰他。只有她，永远只有她善解人意，与自己不离不弃。</p><p><br></p><p>一分为二的生命，独一无二的魂灵。</p>",
+  "blzpcyxdtbtmcc930x680_8d": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170626/_7483325.png",
+  "blzjbyxdw_5f": "法师 远程消耗",
+  "blzjbyxdtcc660x384_84": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170623/_7152390.jpg",
+  "yxzs_36": [
+    {
+      "yxzspc_38": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170925/21_8257141.jpg",
+      "yxzsydd_3b": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170630/1_5979691.jpg",
+      "yxzstx_1d": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170630/182-smallskin-1_5998614.jpg",
+      "yxch_ce": "淬命双剑",
+      "yxzsmc_ae": "干将莫邪",
+      "yxszdw_e0": "2",
+      "sxsj_24": "2017.05.18"
+    },
+    {
+      "yxzspc_38": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170925/18_8335539.jpg",
+      "yxzsydd_3b": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170703/1_1056288.jpg",
+      "yxzstx_1d": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170703/182-smallskin-2_094534.jpg",
+      "yxch_ce": "第七人偶",
+      "yxzsmc_ae": "干将莫邪",
+      "yxszdw_e0": "2",
+      "sxsj_24": "2017.05.18"
+    }
+  ],
+  "ygzyxhqfsydd_29": [
+    "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170703/_6424409.jpg",
+    "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170703/1_6427729.jpg",
+    "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170703/_6467378.jpg"
+  ],
+  "bjgstppc_53": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170630/3_6226511.jpg",
+  "yxhqfspc_d9": [
+    {
+      "yxhqfstp_69": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20171106/_7475968_6047426.jpg",
+      "yxhqfsurl_ed": ""
+    },
+    {
+      "yxhqfstp_69": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20171106/_7489257_5812226_6064659.jpg",
+      "yxhqfsurl_ed": ""
+    },
+    {
+      "yxhqfstp_69": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20171106/_5814677_6076271.jpg",
+      "yxhqfsurl_ed": ""
+    }
+  ],
+  "fx_ec": "新英雄【淬命双剑-干将莫邪】5月22日上线"
+}

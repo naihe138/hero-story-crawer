@@ -1,0 +1,56 @@
+{
+  "YXMC_8f": "妲己",
+  "YXTX_8d": "",
+  "yxbm_72": "",
+  "yxlx_32": "",
+  "yxcv_ff": "洪海天",
+  "yxgs_28": "",
+  "yyjs_1e": "",
+  "yxjl_38": "",
+  "lssdyx_94": "",
+  "gszbannert01_ff": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/D-DJ_6831296.jpg",
+  "gszbannert02_08": "",
+  "lbbanner_f4": [
+    ""
+  ],
+  "yxpfyy_fe": [
+    {
+      "yxcv_ff": "洪海天",
+      "pfmc_ff": "魅惑之狐",
+      "pfbanner_ed": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/D-DJ_686169.jpg",
+      "yylb1_c8": [
+        {
+          "yywa1_f2": "妲己魅惑之狐语音1",
+          "yyyp1_1f": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/audios/daji_hall_1_6867145.wav"
+        },
+        {
+          "yywa1_f2": "妲己魅惑之狐语音2",
+          "yyyp1_1f": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/audios/daji_hall_move_2_6874531.wav"
+        },
+        {
+          "yywa1_f2": "妲己魅惑之狐语音3",
+          "yyyp1_1f": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/audios/daji_hall_move_4_6881618.wav"
+        }
+      ]
+    },
+    {
+      "yxcv_ff": "蒋丽",
+      "pfmc_ff": "热情桑巴",
+      "pfbanner_ed": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/D-djrqdsb_6920715.jpg",
+      "yylb1_c8": [
+        {
+          "yywa1_f2": "妲己热情桑巴语音1",
+          "yyyp1_1f": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/audios/daji_sangba_hall_1_6936812.wav"
+        },
+        {
+          "yywa1_f2": "妲己热情桑巴语音2",
+          "yyyp1_1f": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/audios/daji_sangba_hall_2_6943956.wav"
+        },
+        {
+          "yywa1_f2": "妲己热情桑巴语音3",
+          "yyyp1_1f": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/audios/daji_sangba_hall_3_01_6950599.wav"
+        }
+      ]
+    }
+  ]
+}

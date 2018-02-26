@@ -1,0 +1,56 @@
+{
+  "YXMC_8f": "曹操",
+  "YXTX_8d": "",
+  "yxbm_72": "",
+  "yxlx_32": "",
+  "yxcv_ff": "桂楠",
+  "yxgs_28": "",
+  "yyjs_1e": "",
+  "yxjl_38": "",
+  "lssdyx_94": "",
+  "gszbannert01_ff": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/C-caocao_5888681.jpg",
+  "gszbannert02_08": "",
+  "lbbanner_f4": [
+    ""
+  ],
+  "yxpfyy_fe": [
+    {
+      "yxcv_ff": "桂楠",
+      "pfmc_ff": "鲜血枭雄",
+      "pfbanner_ed": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/C-caocao_5895720.jpg",
+      "yylb1_c8": [
+        {
+          "yywa1_f2": "曹操鲜血枭雄语音",
+          "yyyp1_1f": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/audios/caocao_hall_1_5923792.wav"
+        },
+        {
+          "yywa1_f2": "曹操鲜血枭雄语音2",
+          "yyyp1_1f": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/audios/caocao_hall_2_593162.wav"
+        },
+        {
+          "yywa1_f2": "曹操鲜血枭雄语音3",
+          "yyyp1_1f": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/audios/caocao_hall_3_5939785.wav"
+        }
+      ]
+    },
+    {
+      "yxcv_ff": "王肖兵",
+      "pfmc_ff": "幽灵船长",
+      "pfbanner_ed": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/C-caocliu_5975338.jpg",
+      "yylb1_c8": [
+        {
+          "yywa1_f2": "曹操幽灵船长1",
+          "yyyp1_1f": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/audios/caocao_youlingchuanzhang_hall_1_5999596.wav"
+        },
+        {
+          "yywa1_f2": "曹操幽灵船长2",
+          "yyyp1_1f": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/audios/caocao_youlingchuanzhang_hall_2_6006536.wav"
+        },
+        {
+          "yywa1_f2": "曹操幽灵船长3",
+          "yyyp1_1f": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/audios/caocao_youlingchuanzhang_hall_3_6014846.wav"
+        }
+      ]
+    }
+  ]
+}

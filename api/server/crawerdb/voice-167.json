@@ -1,0 +1,233 @@
+{
+  "yxid_a7": "167",
+  "ygzsybjt_5a": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170527/044_7946603.jpg",
+  "ygzsysp_0e": {
+    "spjt_1b": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170527/2_3508763.png",
+    "spvid_34": "w05096eejwm",
+    "syspjtydd_3e": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170703/2_3508763_5737843.png"
+  },
+  "yxsx_cd": {
+    "yxscnl_c2": "5",
+    "yxgjsh_13": "5",
+    "yxjnxg_2b": "5",
+    "yxssnd_c1": "4"
+  },
+  "ygzxyxsjsl_23": {
+    "gszurl_c7": {
+      "gszurlydhb_c7": "//pvp.qq.com/webplat/info/news_version3/15592/18024/21881/m14245/201602/433883.shtml?herotype=all&idx=45",
+      "gszurlydsb_57": "//pvp.qq.com/webplat/info/news_version3/15592/18024/21881/m14245/201602/433883.shtml?herotype=all&idx=45"
+    },
+    "sjsl_a0": "<p>齐天大圣的经典形象，除了打得敌人魂飞魄散的金箍棒，还有敏捷的身法和神奇的咒术，我们的这位猴子英雄无疑在后者上有所欠缺。形象上的欠缺也在玩法上带来了的实际问题，猴子常能轻取敌人首级，但由于能力的单一、操作空间的局限，猴子的使命往往仅止于此，双方的交互并不够有趣。以1技能为例，由于隐身仅有1.5秒，难以提供相应的反制手段，且假身在绝大多数情况下也并不具有迷惑性，这便是交互的缺乏。</p><p>鉴于现状，我们将制造更丰富的交互作为此次重做的思路。猴子每个技能的收益将被拆分为多段，要想获取第一段之后的收益，操作者需要对敌人的行为进行正确预判或是持续追击。这个过程中，敌人的前摇动作、走位，甚至是小兵野怪的位置，都是操作者需要仔细观察并加以利用的元素。让交互时间适当延长，让交互过程内容饱满刺激，不让每个技能在放出一瞬间就决定所有收益，便是我们的调整方向。</p>"
+  },
+  "jdjq_7b": "主加技能1增强护盾和提速，2技能用来位移",
+  "ygzjn_d2": [
+    {
+      "JNJS_f3": "q05098t6fa2",
+      "JNMC_3d": "大圣神威",
+      "JNSM_58": "每次释放技能后强化下一次普攻，附带位移效果。孙悟空天生拥有20%暴击率，但初始暴击效果为150%",
+      "WF_2e": "孙悟空需要利用技能接普攻打出更高的伤害，被动的暴击加上暴击装备的加成能迅速击杀对方脆皮英雄",
+      "JNICON_a0": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170516/1_5817315.png",
+      "jnjtydhb_b7": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170516/11_581967.jpg",
+      "jnjtydsb_ae": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170516/11_5822213.jpg",
+      "spjt_1b": ""
+    },
+    {
+      "JNJS_f3": "z0509pu4zsc",
+      "JNMC_3d": "护身咒法",
+      "JNSM_58": "孙悟空念起护身咒，护身咒可在短时间内为孙悟空抵挡一次敌方技能。若成功抵挡，孙悟空将获得极短暂的无敌效果，以及持续一段时间的护盾。开启技能还会获得短暂加速效果",
+      "WF_2e": "在适当的时间开启，成功抵挡地方技能后，能让孙悟空抵挡大量的伤害",
+      "JNICON_a0": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170516/2_5849400.png",
+      "jnjtydhb_b7": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170516/22_5850208.jpg",
+      "jnjtydsb_ae": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170516/22_5853841.jpg",
+      "spjt_1b": ""
+    },
+    {
+      "JNJS_f3": "r0509cqmw9v",
+      "JNMC_3d": "斗战冲锋",
+      "JNSM_58": "孙悟空朝指定方向冲锋，命中敌人后借力腾空跳跃。跳跃过程中可使用普攻或英雄技能可中断跳跃",
+      "WF_2e": "这是孙悟空很重要的位移技能，主要利用它来接近敌人或借力位移追击其他的敌人",
+      "JNICON_a0": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170516/3_587846.png",
+      "jnjtydhb_b7": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170516/33_58867.jpg",
+      "jnjtydsb_ae": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170516/33_588750.jpg",
+      "spjt_1b": ""
+    },
+    {
+      "JNJS_f3": "w0509af55li",
+      "JNMC_3d": "如意金箍",
+      "JNSM_58": "孙悟空将金箍棒变大直插入地，造成巨大震动对周围敌人造成物理伤害并晕眩1秒。并对命中敌人打上3层印记。孙悟空的普攻命中带有印记的敌人将造成额外物理伤害，并消耗一层印记",
+      "WF_2e": "这是孙悟空主要的控制技能，能形成很好的AOE控制效果，并且对印记标记的敌人有更高的伤害",
+      "JNICON_a0": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170516/4_5913160.png",
+      "jnjtydhb_b7": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170516/44_5915836.jpg",
+      "jnjtydsb_ae": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170516/44_5917741.jpg",
+      "spjt_1b": ""
+    }
+  ],
+  "yxgllj_2d": "//pvp.qq.com/ingame/all/index.shtml#!/strategy/heroBook/167",
+  "mwtj_36": "物理攻击力、物理穿透、暴击",
+  "mwtjly_46": "物理攻击和物理穿透提升前期输出能力，暴击配合被动效果更佳",
+  "SJMW_81": [
+    {
+      "MWICON_c6": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images//kaungre_2641617.png",
+      "MWMC_f2": "狂热"
+    },
+    {
+      "MWICON_c6": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images//zhengyi_267874.png",
+      "MWMC_f2": "正义"
+    },
+    {
+      "MWICON_c6": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170420/02_5577394.png",
+      "MWMC_f2": "野性"
+    }
+  ],
+  "WJMW_ed": [
+    {
+      "MWICON_c6": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170426/mw03_8222731.png",
+      "MWMC_f2": "鹰眼"
+    },
+    {
+      "MWICON_c6": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170411/64-76_3670391.png",
+      "MWMC_f2": "无双"
+    },
+    {
+      "MWICON_c6": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170527/3_6617260.png",
+      "MWMC_f2": "兽痕"
+    }
+  ],
+  "ygzcz01_d9": {
+    "TJCZ_16": [
+      {
+        "CZMC_1a": "暗影战斧",
+        "CZICON_c4": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images//tj_pic4_3841251.png"
+      },
+      {
+        "CZMC_1a": "泣血之刃",
+        "CZICON_c4": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170519/qixuezhiren_457464.png"
+      },
+      {
+        "CZMC_1a": "无尽战刃",
+        "CZICON_c4": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170519/wujinzhanren_4582498.png"
+      },
+      {
+        "CZMC_1a": "隐忍之足",
+        "CZICON_c4": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170406/01-1_7543702.png"
+      },
+      {
+        "CZMC_1a": "宗师之力",
+        "CZICON_c4": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170527/1134_6819501.png"
+      },
+      {
+        "CZMC_1a": "复活甲",
+        "CZICON_c4": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170527/1337_6850601.png"
+      }
+    ],
+    "tjczms_e3": "孙悟空顺风局出装",
+    "tjczly_4e": "战士出门装，前期主要出输出装，造成高额伤害，全输出孙悟空，需要较高的操作技巧，能打出高额伤害"
+  },
+  "ygzcz02_6a": {
+    "TJCZ_16": [
+      {
+        "CZMC_1a": "暗影战斧",
+        "CZICON_c4": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images//tj_pic4_3841251.png"
+      },
+      {
+        "CZMC_1a": "不详征兆",
+        "CZICON_c4": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images//tj_pic5_3903715.png"
+      },
+      {
+        "CZMC_1a": "无尽战刃",
+        "CZICON_c4": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170519/wujinzhanren_4582498.png"
+      },
+      {
+        "CZMC_1a": "不死鸟之眼",
+        "CZICON_c4": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170527/1334_7111833.png"
+      },
+      {
+        "CZMC_1a": "隐忍之足",
+        "CZICON_c4": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170406/01-1_7543702.png"
+      },
+      {
+        "CZMC_1a": "破军",
+        "CZICON_c4": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170420/3_5530141.png"
+      }
+    ],
+    "tjczms_e3": "孙悟空逆风局出装",
+    "tjczly_4e": "战士出门装，前期主要出输出装，造成高额伤害，半肉半输出孙悟空，能保证自己更容易存活"
+  },
+  "SYZYSX_e0": "<p><i>-</i>孙悟空需要找机会接近敌方后排将其输出英雄秒掉</p>\r\n<p><i>-</i>孙悟空需要在适当的时机开启1技能抵挡敌方技能</p>\r\n<p><i>-</i>孙悟空配合有控制技能的英雄能更好的输出</p>",
+  "dssygyxs_3e": "<p><i>-</i>孙悟空开启1技能时不要用技能打他</p>\r\n<p><i>-</i>脆皮英雄需要时刻注意孙悟空的走位，注意控制和他的距离</p>\r\n",
+  "XGYX_25": [
+    {
+      "ZJDDMC_64": "宫本武藏",
+      "ZJDDTX_37": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170527/130_5679688.jpg",
+      "zjddsm_61": "宫本武藏的留人能力配合孙悟空能将对手迅速制服"
+    },
+    {
+      "ZJDDMC_64": "太乙真人",
+      "ZJDDTX_37": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170527/186_5697565.jpg",
+      "zjddsm_61": "太乙真人的控制能让孙悟空更好的输出"
+    }
+  ],
+  "YZYX_79": [
+    {
+      "YZYXMC_cd": "鲁班",
+      "YZYXTX_dc": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170601/112_2604938.jpg",
+      "yzyxsm_51": "孙悟空在团战中可以切入后排，轻松秒掉没有位移的鲁班"
+    },
+    {
+      "YZYXMC_cd": "干将莫邪",
+      "YZYXTX_dc": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170601/182_2828329.jpg",
+      "yzyxsm_51": "干将莫邪特殊弹道的技能很难逃脱立刻近身的孙悟空"
+    }
+  ],
+  "YZYX_9c": [
+    {
+      "BYZYXMC_f6": "芈月",
+      "BYZYXTX_4f": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170527/121_5736328.jpg",
+      "byzyxsm_c1": "芈月大招可以很好的躲掉孙悟空的技能攻击"
+    },
+    {
+      "BYZYXMC_f6": "项羽",
+      "BYZYXTX_4f": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170527/135_5754928.jpg",
+      "byzyxsm_c1": "孙悟空在切入后排时可使用项羽将其推开作为保护"
+    }
+  ],
+  "ygzyxhqfs_f7": [
+    "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170601/_3825509.jpg",
+    "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170601/_3828418.jpg",
+    "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170601/_3829931.jpg"
+  ],
+  "ygzbjt_bf": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170515/swk_6765191.jpg",
+  "ymtitle_d2": "英雄重塑-孙悟空",
+  "blzzzslsjsldwb_f5": "重塑思路",
+  "blzmslgdwb_8f": "",
+  "sfzx_ab": {
+    "tab01_d3": "首页",
+    "tab02_9b": "重塑思路",
+    "tab03_0f": "",
+    "tab04_21": "技能阐述",
+    "tab05_76": "搭配技巧",
+    "tab06_98": "获取方法"
+  },
+  "blzpcyxbjgs_e5": "<p>“人类历史上黑暗的一天!”</p><p>“它像突如其来的飓风扫过凡间，半座城市因此颤栗。与此相对，奴隶们开始欢呼起解放，自由，以及诸如此类的字眼。”</p><p>“当权者恐惧着，召唤出同样拥有强大力量的魔种与之对抗。然而，它的长笑贯穿晴空，如意金箍棒所及之处，枷锁碎裂。魔种们高喊着它的名字，纷纷倒戈。</p><p>是的，它并非孤身战斗，越来越多的奴隶加入它的麾下。它们浩浩荡荡，势不可挡，人们几乎以为大陆会在一夜之间颠覆。魔道的时代，将就此终止吗？”</p><p>——《竹书纪年，灾难的一天》</p><p>这是有史记载以来第一次魔种起义。关于那只猴子的故事，就此戛然而止。它死了吗？被俘虏了吗？最终的命运如何？一切都成为问号，只于史学家，或者孩童的睡前故事里流传。</p><p>“什么齐天大圣，没用的猴子罢了。”</p><p>“它是传奇。”</p><p>“失败者不配被历史铭记。”</p><p>“有这样一个齐天大圣，它率领你们，保护你们。之后，你就无所畏惧。”</p><p>时间又翻过多久呢……几百年？几千年？昔日的当权者埋进坟墓。旅人们自青山脚下走说笑着走过，毫不在意路旁的青石，以及青石前默默矗立的僧侣。</p><p>沉睡，沉睡了多久?</p><p>是谁在呼唤我？</p><p>“和平又安宁的时代，不需要我的存在。”</p><p>西方，西方的风暴将袭来。</p><p>“危机，超越了人类与魔种的界限。跟我一起，寻找新的道路，去抵达根源吧。”</p><p>路在哪里？我曾经竭尽全力的探索过，往前，往前，依旧只能看到虚无和黑暗。</p><p>我失败了，我不后悔。</p><p>我是齐天大圣，我不会死。</p><p>回应着呼唤与呢喃，大地开始剧烈的颤抖。就像千百年前诞生时一样，冲破枷锁和束缚。它的身影如此高大，矗立于天地之间。</p><p>大圣，归来。</p><p><br></p><p>“取经之路，就在脚下。”</p>",
+  "blzpcyxdtbtmcc930x680_8d": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170626/_080416.png",
+  "blzjbyxdw_5f": "战士 刺客 突击 团控",
+  "blzjbyxdtcc660x384_84": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170623/21_6162679.jpg",
+  "yxzs_36": [
+    {
+      "yxzspc_38": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170925/6_8370667.jpg",
+      "yxzsydd_3b": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170703/750-712-4_5631466.jpg",
+      "yxzstx_1d": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170703/90-90-4_563478.jpg",
+      "yxch_ce": "齐天大圣",
+      "yxzsmc_ae": "孙悟空",
+      "yxszdw_e0": "1",
+      "sxsj_24": "2017.06.02"
+    }
+  ],
+  "ygzyxhqfsydd_29": [
+    "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170703/_3326712.jpg",
+    "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170703/_3332518.jpg",
+    "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170703/_3339662.jpg"
+  ],
+  "bjgstppc_53": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170703/546-358-4_5679264.jpg",
+  "fx_ec": "英雄重塑【齐天大圣-孙悟空】6月2日重塑"
+}

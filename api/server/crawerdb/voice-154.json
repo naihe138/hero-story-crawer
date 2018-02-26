@@ -1,0 +1,75 @@
+{
+  "YXMC_8f": "花木兰",
+  "YXTX_8d": "",
+  "yxbm_72": "",
+  "yxlx_32": "",
+  "yxcv_ff": "",
+  "yxgs_28": "",
+  "yyjs_1e": "",
+  "yxjl_38": "",
+  "lssdyx_94": "",
+  "gszbannert01_ff": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/H-hml_1122224.jpg",
+  "gszbannert02_08": "",
+  "lbbanner_f4": [
+    ""
+  ],
+  "yxpfyy_fe": [
+    {
+      "yxcv_ff": "周帅",
+      "pfmc_ff": "传说之刃",
+      "pfbanner_ed": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/H-hml_1158224.jpg",
+      "yylb1_c8": [
+        {
+          "yywa1_f2": "花木兰-传说之刃语音1",
+          "yyyp1_1f": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/audios/huamulan_hall_1_1165320.wav"
+        },
+        {
+          "yywa1_f2": "花木兰-传说之刃语音2",
+          "yyyp1_1f": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/audios/huamulan_hall_2_117132.wav"
+        },
+        {
+          "yywa1_f2": "花木兰-传说之刃语音3",
+          "yyyp1_1f": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/audios/huamulan_hall_3_1181550.wav"
+        }
+      ]
+    },
+    {
+      "yxcv_ff": "朱祎",
+      "pfmc_ff": "兔女郎",
+      "pfbanner_ed": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/H-hmltnl_1243295.jpg",
+      "yylb1_c8": [
+        {
+          "yywa1_f2": "花木兰-兔女郎语音1",
+          "yyyp1_1f": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/audios/arwen_tunvlang_hall_1_1249334.wav"
+        },
+        {
+          "yywa1_f2": "花木兰-兔女郎语音2",
+          "yyyp1_1f": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/audios/arwen_tunvlang_hall_2_1261549.wav"
+        },
+        {
+          "yywa1_f2": "花木兰-兔女郎语音3",
+          "yyyp1_1f": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/audios/huamulan_tunvlang_move_4_new_1267847.wav"
+        }
+      ]
+    },
+    {
+      "yxcv_ff": "祝俊",
+      "pfmc_ff": "水晶猎龙者",
+      "pfbanner_ed": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/11_8739331.jpg",
+      "yylb1_c8": [
+        {
+          "yywa1_f2": "花木兰-水晶猎龙者语音1",
+          "yyyp1_1f": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/audios/huamulan_longqishi_hall_1_8830255.wav"
+        },
+        {
+          "yywa1_f2": "花木兰-水晶猎龙者语音2",
+          "yyyp1_1f": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/audios/huamulan_longqishi_hall_2_8842319.wav"
+        },
+        {
+          "yywa1_f2": "花木兰-水晶猎龙者语音3",
+          "yyyp1_1f": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/audios/huamulan_longqishi_hall_3_8852339.wav"
+        }
+      ]
+    }
+  ]
+}

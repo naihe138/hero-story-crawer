@@ -1,0 +1,35 @@
+{
+  "YXMC_8f": "后羿",
+  "YXTX_8d": "",
+  "yxbm_72": "",
+  "yxlx_32": "",
+  "yxcv_ff": "桂楠",
+  "yxgs_28": "",
+  "yyjs_1e": "",
+  "yxjl_38": "",
+  "lssdyx_94": "",
+  "gszbannert01_ff": "https://game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/H-hy_0925999.jpg",
+  "gszbannert02_08": "",
+  "lbbanner_f4": [
+    ""
+  ],
+  "yxpfyy_fe": {
+    "yxcv_ff": "桂楠",
+    "pfmc_ff": "半神之弓",
+    "pfbanner_ed": "https://game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/H-hy_0941415.jpg",
+    "yylb1_c8": [
+      {
+        "yywa1_f2": "后羿-半神之弓语音1",
+        "yyyp1_1f": "https://game.gtimg.cn/images/yxzj/wtc_static_yxzj/audios/houyi_hall_1_094914.wav"
+      },
+      {
+        "yywa1_f2": "后羿-半神之弓语音2",
+        "yyyp1_1f": "https://game.gtimg.cn/images/yxzj/wtc_static_yxzj/audios/houyi_hall_2_0955868.wav"
+      },
+      {
+        "yywa1_f2": "后羿-半神之弓语音3",
+        "yyyp1_1f": "https://game.gtimg.cn/images/yxzj/wtc_static_yxzj/audios/houyi_hall_3_0962793.wav"
+      }
+    ]
+  }
+}

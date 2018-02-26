@@ -1,0 +1,56 @@
+{
+  "YXMC_8f": "武则天",
+  "YXTX_8d": "",
+  "yxbm_72": "",
+  "yxlx_32": "",
+  "yxcv_ff": "周帅",
+  "yxgs_28": "",
+  "yyjs_1e": "",
+  "yxjl_38": "",
+  "lssdyx_94": "",
+  "gszbannert01_ff": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/wzt_1468971.jpg",
+  "gszbannert02_08": "",
+  "lbbanner_f4": [
+    ""
+  ],
+  "yxpfyy_fe": [
+    {
+      "yxcv_ff": "周帅",
+      "pfmc_ff": "女帝",
+      "pfbanner_ed": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/wzt_1488353.jpg",
+      "yylb1_c8": [
+        {
+          "yywa1_f2": "武则天-女帝语音1",
+          "yyyp1_1f": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/audios/wuzetian_hall_1_1494848.wav"
+        },
+        {
+          "yywa1_f2": "武则天-女帝语音2",
+          "yyyp1_1f": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/audios/wuzetian_hall_2_1500480.wav"
+        },
+        {
+          "yywa1_f2": "武则天-女帝语音3",
+          "yyyp1_1f": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/audios/wuzetian_hall_3_1506250.wav"
+        }
+      ]
+    },
+    {
+      "yxcv_ff": "黄莺",
+      "pfmc_ff": "海洋之心",
+      "pfbanner_ed": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/wzthyzx_1551399.jpg",
+      "yylb1_c8": [
+        {
+          "yywa1_f2": "武则天-海洋之心语音1",
+          "yyyp1_1f": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/audios/wuzetian_najiahaiyao_hall_1_1558622.wav"
+        },
+        {
+          "yywa1_f2": "武则天-海洋之心语音2",
+          "yyyp1_1f": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/audios/wuzetian_najiahaiyao_move_1_156535.wav"
+        },
+        {
+          "yywa1_f2": "武则天-海洋之心语音3",
+          "yyyp1_1f": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/audios/wuzetian_najiahaiyao_move_2_157136.wav"
+        }
+      ]
+    }
+  ]
+}

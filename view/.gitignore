@@ -1,10 +1,6 @@
 # dependencies
 node_modules
 
-api/node_modules
-view/node_modules
-view/.nuxt
-
 # logs
 npm-debug.log
 
@@ -13,6 +9,3 @@ npm-debug.log
 
 # Nuxt generate
 dist
-
-# db
-server/crawerdb

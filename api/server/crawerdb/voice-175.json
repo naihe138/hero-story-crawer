@@ -1,0 +1,35 @@
+{
+  "YXMC_8f": "钟馗",
+  "YXTX_8d": "",
+  "yxbm_72": "钟馗",
+  "yxlx_32": "",
+  "yxcv_ff": "",
+  "yxgs_28": "",
+  "yyjs_1e": "",
+  "yxjl_38": "",
+  "lssdyx_94": "",
+  "gszbannert01_ff": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/1_9090660.jpg",
+  "gszbannert02_08": "",
+  "lbbanner_f4": [
+    ""
+  ],
+  "yxpfyy_fe": {
+    "yxcv_ff": "邹亮",
+    "pfmc_ff": "虚灵城判",
+    "pfbanner_ed": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/1_9124830.jpg",
+    "yylb1_c8": [
+      {
+        "yywa1_f2": "钟馗-虚灵城判语音1",
+        "yyyp1_1f": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/audios/zhongkui_hall_1_9139408.wav"
+      },
+      {
+        "yywa1_f2": "钟馗-虚灵城判语音2",
+        "yyyp1_1f": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/audios/zhongkui_hall_2_9155429.wav"
+      },
+      {
+        "yywa1_f2": "钟馗-虚灵城判语音3",
+        "yyyp1_1f": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/audios/zhongkui_hall_3_916550.wav"
+      }
+    ]
+  }
+}

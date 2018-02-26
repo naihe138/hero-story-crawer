@@ -1,0 +1,62 @@
+{
+  "YXMC_8f": "东皇太一",
+  "YXTX_8d": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/94767842334793_7490303.jpg",
+  "yxbm_72": "噬灭日烛",
+  "yxlx_32": "坦克 吸血",
+  "yxcv_ff": "沈磊",
+  "yxgs_28": "",
+  "yyjs_1e": "",
+  "gsztips_48": {
+    "tips01_80": "“东皇太一”为先秦时代楚地所祭祀的神祇。",
+    "tips02_6c": "东皇太一从人成神的设计灵感，来源于楚国大墓巫师乘龙升天的考古发现"
+  },
+  "yxjl_38": "他出生在太古时代的末期，具体年龄已不可考。他曾经也是一个普通的凡人。<br>因为某种机缘，得以参与到最后一次建造“奇迹”的工作中，并因而得以偷窥双螺旋的知识奥秘。<br>他被当时鬼谷子的学识所折服，并冒着极大风险追随于鬼谷子，并成为鬼谷子创建的阴阳家中的一员。<br>他接受了鬼谷子的改造，变成了接近现在的非人模样。<br>他放逐了自己的恩师和友人鬼谷子<br>依靠奇迹和信仰，他宣布自己是“东皇太一”，赢得了落后的大河流域人民的恐惧，并变成一种信仰，开启了自己漫长的统治<br>",
+  "yxsd_92": {
+    "yxnl_a3": "英雄年龄：未知，至少有漫长的数百岁之久",
+    "yxzz_b8": "英雄种族：改造体",
+    "yxdy_4c": "英雄地域：楚汉之地",
+    "yxsl_54": "英雄势力：阴阳家",
+    "yxsf_48": "英雄身份：依靠奇迹和压倒性力量统治与世隔绝的大河流域的统治者",
+    "yxxg_34": "英雄性格：威严，喜怒无常，极端爱好能让自己变强大的学问",
+    "yxah_a6": "英雄爱好：追求让自己变得强大的学问、彻夜不眠的做试题",
+    "rjgx_db": "人际关系：东皇太一对出身楚地的天才张良有着莫名的嫉妒。恐怕是同为孜孜不倦寻求知识根源之人，对张良不费吹灰之力掌握言灵之术的艳羡。"
+  },
+  "lssdyx_94": "<p>“东皇太一”并非真实存在的历史人物。这个名字见于战国末期伟大诗人屈原的不朽之作《九歌·东皇太一》，乃是根据楚地流传的祭乐所改编的祭神之歌。楚人于东方立祠祭祀天神，故称东皇。太一则有多种说法，一指星名，又有称是形容神力无边广大。</p><p>九歌全篇并没有描写东皇太一的外貌，只是描述祭神仪式的热烈和隆重，乃是对天帝虔诚的颂歌。</p>",
+  "gszbannert01_ff": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/11_9424960.png",
+  "gszbannert02_08": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/11_9459791.png",
+  "lbbanner_f4": [
+    "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/1_1754359.jpg",
+    "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/3_1759686.jpg"
+  ],
+  "xgyx_eb": [
+    {
+      "XGYXICON_08": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/ha1_1726674.jpg",
+      "XGYXMC_16": "周瑜",
+      "xgyxlj_4e": "1"
+    },
+    {
+      "XGYXICON_08": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/ha1_1824463.jpg",
+      "XGYXMC_16": "李白",
+      "xgyxlj_4e": "2"
+    }
+  ],
+  "yxpfyy_fe": {
+    "yxcv_ff": "沈磊",
+    "pfmc_ff": "噬灭日蚀",
+    "pfbanner_ed": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/dhty_7707731.jpg",
+    "yylb1_c8": [
+      {
+        "yywa1_f2": "东皇太一-噬灭日蚀语音1",
+        "yyyp1_1f": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/audios/donghuangtaiyi_hall_1_7809614.wav"
+      },
+      {
+        "yywa1_f2": "东皇太一-噬灭日蚀语音2",
+        "yyyp1_1f": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/audios/donghuangtaiyi_hall_2_7822516.wav"
+      },
+      {
+        "yywa1_f2": "东皇太一-噬灭日蚀语音3",
+        "yyyp1_1f": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/audios/donghuangtaiyi_hall_3_new_7835499.wav"
+      }
+    ]
+  }
+}

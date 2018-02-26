@@ -1,0 +1,35 @@
+{
+  "YXMC_8f": "典韦",
+  "YXTX_8d": "",
+  "yxbm_72": "",
+  "yxlx_32": "",
+  "yxcv_ff": "李元韬",
+  "yxgs_28": "",
+  "yyjs_1e": "",
+  "yxjl_38": "",
+  "lssdyx_94": "",
+  "gszbannert01_ff": "https://game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/D-dw_7641878.jpg",
+  "gszbannert02_08": "",
+  "lbbanner_f4": [
+    ""
+  ],
+  "yxpfyy_fe": {
+    "yxcv_ff": "李元韬",
+    "pfmc_ff": "狂战士",
+    "pfbanner_ed": "https://game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/D-dw_7667921.jpg",
+    "yylb1_c8": [
+      {
+        "yywa1_f2": "典韦狂战士语音1",
+        "yyyp1_1f": "https://game.gtimg.cn/images/yxzj/wtc_static_yxzj/audios/dianwei_hall_1_7675338.wav"
+      },
+      {
+        "yywa1_f2": "典韦狂战士语音2",
+        "yyyp1_1f": "https://game.gtimg.cn/images/yxzj/wtc_static_yxzj/audios/dianwei_hall_2_7685813.wav"
+      },
+      {
+        "yywa1_f2": "典韦狂战士语音3",
+        "yyyp1_1f": "https://game.gtimg.cn/images/yxzj/wtc_static_yxzj/audios/dianwei_hall_3_7692665.wav"
+      }
+    ]
+  }
+}

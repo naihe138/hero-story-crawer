@@ -1,0 +1,56 @@
+{
+  "YXMC_8f": "孙尚香",
+  "YXTX_8d": "",
+  "yxbm_72": "",
+  "yxlx_32": "",
+  "yxcv_ff": "陶典",
+  "yxgs_28": "",
+  "yyjs_1e": "",
+  "yxjl_38": "",
+  "lssdyx_94": "",
+  "gszbannert01_ff": "https://game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/ssx_5445328.jpg",
+  "gszbannert02_08": "",
+  "lbbanner_f4": [
+    ""
+  ],
+  "yxpfyy_fe": [
+    {
+      "yxcv_ff": "陶典",
+      "pfmc_ff": "千金重弩",
+      "pfbanner_ed": "https://game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/ssx_5463963.jpg",
+      "yylb1_c8": [
+        {
+          "yywa1_f2": "孙尚香-千金重弩语音1",
+          "yyyp1_1f": "https://game.gtimg.cn/images/yxzj/wtc_static_yxzj/all/sunshangxiang_hall_1_5469820.wav"
+        },
+        {
+          "yywa1_f2": "孙尚香-千金重弩语音2",
+          "yyyp1_1f": "https://game.gtimg.cn/images/yxzj/wtc_static_yxzj/audios/sunshangxiang_hall_3_5475702.wav"
+        },
+        {
+          "yywa1_f2": "孙尚香-千金重弩语音3",
+          "yyyp1_1f": "https://game.gtimg.cn/images/yxzj/wtc_static_yxzj/audios/sunshangxiang_move_5_5483632.wav"
+        }
+      ]
+    },
+    {
+      "yxcv_ff": "陶典",
+      "pfmc_ff": "末日机甲",
+      "pfbanner_ed": "https://game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/mrjj_5520825.jpg",
+      "yylb1_c8": [
+        {
+          "yywa1_f2": "孙尚香-末日机甲语音1",
+          "yyyp1_1f": "https://game.gtimg.cn/images/yxzj/wtc_static_yxzj/audios/sunshangxiang_morijijia_hall_1_5525476.wav"
+        },
+        {
+          "yywa1_f2": "孙尚香-末日机甲语音2",
+          "yyyp1_1f": "https://game.gtimg.cn/images/yxzj/wtc_static_yxzj/audios/sunshangxiang_morijijia_hall_2_5532127.wav"
+        },
+        {
+          "yywa1_f2": "孙尚香-末日机甲语音3",
+          "yyyp1_1f": "https://game.gtimg.cn/images/yxzj/wtc_static_yxzj/audios/sunshangxiang_morijijia_hall_3_5537463.wav"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "YXMC_8f": "王昭君",
+  "YXTX_8d": "",
+  "yxbm_72": "",
+  "yxlx_32": "",
+  "yxcv_ff": "张安琪",
+  "yxgs_28": "",
+  "yyjs_1e": "",
+  "yxjl_38": "",
+  "lssdyx_94": "",
+  "gszbannert01_ff": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170427/wzj_112796.jpg",
+  "gszbannert02_08": "",
+  "lbbanner_f4": [
+    ""
+  ],
+  "yxpfyy_fe": [
+    {
+      "yxcv_ff": "张安琪",
+      "pfmc_ff": "冰雪之华",
+      "pfbanner_ed": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170427/wzj_1151819.jpg",
+      "yylb1_c8": [
+        {
+          "yywa1_f2": "王昭君-冰雪之华语音1",
+          "yyyp1_1f": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/audios//wangzhaojun_hall_1_1159183.wav"
+        },
+        {
+          "yywa1_f2": "王昭君-冰雪之华语音2",
+          "yyyp1_1f": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/audios//wangzhaojun_hall_2_1167636.wav"
+        },
+        {
+          "yywa1_f2": "王昭君-冰雪之华语音3",
+          "yyyp1_1f": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/audios//wangzhaojun_hall_3_1192411.wav"
+        }
+      ]
+    },
+    {
+      "yxcv_ff": "张安琪",
+      "pfmc_ff": "凤凰于飞",
+      "pfbanner_ed": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170427/wzjjnxd_1239944.jpg",
+      "yylb1_c8": [
+        {
+          "yywa1_f2": "王昭君-凤凰于飞语音1",
+          "yyyp1_1f": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/audios//wangzhaojun_fenghuangyufei_hall_1_1252138.wav"
+        },
+        {
+          "yywa1_f2": "王昭君-凤凰于飞语音2",
+          "yyyp1_1f": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/audios//wangzhaojun_fenghuangyufei_hall_2_1262516.wav"
+        },
+        {
+          "yywa1_f2": "王昭君-凤凰于飞语音3",
+          "yyyp1_1f": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/audios//wangzhaojun_fenghuangyufei_hall_3_02_1277729.wav"
+        }
+      ]
+    },
+    {
+      "yxcv_ff": "徐慧",
+      "pfmc_ff": "偶像歌手",
+      "pfbanner_ed": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170427/wzjwsgs_132938.jpg",
+      "yylb1_c8": [
+        {
+          "yywa1_f2": "王昭君-偶像歌手语音",
+          "yyyp1_1f": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/audios//wangzhaojun_woshigeshou_hall_1_1337926.wav"
+        },
+        {
+          "yywa1_f2": "王昭君-偶像歌手语音2",
+          "yyyp1_1f": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/audios//wangzhaojun_woshigeshou_hall_2_1345931.wav"
+        },
+        {
+          "yywa1_f2": "王昭君-偶像歌手语音3",
+          "yyyp1_1f": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/audios//wangzhaojun_woshigeshou_hall_3_1353163.wav"
+        }
+      ]
+    }
+  ]
+}

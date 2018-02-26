@@ -1,0 +1,75 @@
+{
+  "YXMC_8f": "李白",
+  "YXTX_8d": "",
+  "yxbm_72": "",
+  "yxlx_32": "",
+  "yxcv_ff": "阿杰",
+  "yxgs_28": "",
+  "yyjs_1e": "",
+  "yxjl_38": "",
+  "lssdyx_94": "",
+  "gszbannert01_ff": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/lb_2366662.jpg",
+  "gszbannert02_08": "",
+  "lbbanner_f4": [
+    ""
+  ],
+  "yxpfyy_fe": [
+    {
+      "yxcv_ff": "阿杰",
+      "pfmc_ff": "青莲剑仙",
+      "pfbanner_ed": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/lb_2388379.jpg",
+      "yylb1_c8": [
+        {
+          "yywa1_f2": "李白-青莲剑仙语音1",
+          "yyyp1_1f": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/audios/libai_hall_1_2394979.wav"
+        },
+        {
+          "yywa1_f2": "李白-青莲剑仙语音2",
+          "yyyp1_1f": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/audios/libai_hall_move_5_2400644.wav"
+        },
+        {
+          "yywa1_f2": "李白-青莲剑仙语音3",
+          "yyyp1_1f": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/audios/libai_move_1_2408383.wav"
+        }
+      ]
+    },
+    {
+      "yxcv_ff": "阿杰",
+      "pfmc_ff": "凤求凰",
+      "pfbanner_ed": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/lbfqh_2448913.jpg",
+      "yylb1_c8": [
+        {
+          "yywa1_f2": "李白-凤求凰语音1",
+          "yyyp1_1f": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/audios/libai_fenghuangyufei_hall_1_02_2454136.wav"
+        },
+        {
+          "yywa1_f2": "李白-凤求凰语音2",
+          "yyyp1_1f": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/audios/libai_fenghuangyufei_hall_2_2462388.wav"
+        },
+        {
+          "yywa1_f2": "李白-凤求凰语音3",
+          "yyyp1_1f": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/audios/libai_fenghuangyufei_hall_03_01_2469957.wav"
+        }
+      ]
+    },
+    {
+      "yxcv_ff": "赵路",
+      "pfmc_ff": "千年白狐",
+      "pfbanner_ed": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/22_9084155.jpg",
+      "yylb1_c8": [
+        {
+          "yywa1_f2": "李白-千年白狐语音1",
+          "yyyp1_1f": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/audios/libai_qiannianzhihu_hall_1_9114730.wav"
+        },
+        {
+          "yywa1_f2": "李白-千年白狐语音2",
+          "yyyp1_1f": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/audios/libai_qiannianzhihu_hall_2_9125806.wav"
+        },
+        {
+          "yywa1_f2": "李白-千年白狐语音3",
+          "yyyp1_1f": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/audios/libai_qiannianzhihu_hall_3_9133535.wav"
+        }
+      ]
+    }
+  ]
+}

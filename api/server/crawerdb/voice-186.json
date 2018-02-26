@@ -1,0 +1,35 @@
+{
+  "YXMC_8f": "太乙真人",
+  "YXTX_8d": "",
+  "yxbm_72": "",
+  "yxlx_32": "",
+  "yxcv_ff": "沈达威/樊俊航",
+  "yxgs_28": "",
+  "yyjs_1e": "",
+  "yxjl_38": "",
+  "lssdyx_94": "",
+  "gszbannert01_ff": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/tyzr_8098832.jpg",
+  "gszbannert02_08": "",
+  "lbbanner_f4": [
+    ""
+  ],
+  "yxpfyy_fe": {
+    "yxcv_ff": "沈达威/樊俊航",
+    "pfmc_ff": "炼金大师",
+    "pfbanner_ed": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/tyzr_8127849.jpg",
+    "yylb1_c8": [
+      {
+        "yywa1_f2": "太乙真人-炼金大师语音1",
+        "yyyp1_1f": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/audios/taiyizhenren_hall_1_8141549.wav"
+      },
+      {
+        "yywa1_f2": "太乙真人-炼金大师语音2",
+        "yyyp1_1f": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/audios/taiyizhenren_hall_2_01_8147735.wav"
+      },
+      {
+        "yywa1_f2": "太乙真人-炼金大师语音3",
+        "yyyp1_1f": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/audios/taiyizhenren_hall_3_8154123.wav"
+      }
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "YXMC_8f": "不知火舞",
+  "YXTX_8d": "",
+  "yxbm_72": "",
+  "yxlx_32": "",
+  "yxcv_ff": "",
+  "yxgs_28": "",
+  "yyjs_1e": "",
+  "yxjl_38": "",
+  "lssdyx_94": "",
+  "gszbannert01_ff": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/0-2_0201464.jpg",
+  "gszbannert02_08": "",
+  "lbbanner_f4": [
+    ""
+  ],
+  "yxpfyy_fe": {
+    "yxcv_ff": "",
+    "pfmc_ff": "明媚烈焰",
+    "pfbanner_ed": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/1_6545654.jpg",
+    "yylb1_c8": [
+      {
+        "yywa1_f2": "不知火舞-明媚烈焰语音1",
+        "yyyp1_1f": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/audios/MAI_CHO_905074.wav"
+      },
+      {
+        "yywa1_f2": "不知火舞-明媚烈焰语音2",
+        "yyyp1_1f": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/audios/MAI_DF1_9062933.wav"
+      },
+      {
+        "yywa1_f2": "不知火舞-明媚烈焰语音3",
+        "yyyp1_1f": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/audios/MAI_W01_9300546.wav"
+      }
+    ]
+  }
+}

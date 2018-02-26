@@ -1,0 +1,56 @@
+{
+  "YXMC_8f": "安琪拉",
+  "YXTX_8d": "",
+  "yxbm_72": "",
+  "yxlx_32": "",
+  "yxcv_ff": "",
+  "yxgs_28": "",
+  "yyjs_1e": "",
+  "yxjl_38": "",
+  "lssdyx_94": "",
+  "gszbannert01_ff": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170427/A-anqil_2773757.jpg",
+  "gszbannert02_08": "",
+  "lbbanner_f4": [
+    ""
+  ],
+  "yxpfyy_fe": [
+    {
+      "yxcv_ff": "詹佳",
+      "pfmc_ff": "暗夜萝莉",
+      "pfbanner_ed": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170427/A-anqil_3003307.jpg",
+      "yylb1_c8": [
+        {
+          "yywa1_f2": "暗夜萝莉语音",
+          "yyyp1_1f": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/audios//angela_hall_new_3033393.wav"
+        },
+        {
+          "yywa1_f2": "暗夜萝莉语音1",
+          "yyyp1_1f": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/audios//merlin_hall_1_3041648.wav"
+        },
+        {
+          "yywa1_f2": "暗夜萝莉语音2",
+          "yyyp1_1f": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/audios//merlin_hall_2_3048154.wav"
+        }
+      ]
+    },
+    {
+      "yxcv_ff": "二娇",
+      "pfmc_ff": "魔法小厨娘",
+      "pfbanner_ed": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170427/A-anqila_2783691.jpg",
+      "yylb1_c8": [
+        {
+          "yywa1_f2": "魔法小厨娘语音1",
+          "yyyp1_1f": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/audios//anqila_bishengke_hall_2_286849.wav"
+        },
+        {
+          "yywa1_f2": "魔法小厨娘语音2",
+          "yyyp1_1f": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/audios//anqila_bishengke_hall_3_2904296.wav"
+        },
+        {
+          "yywa1_f2": "魔法小厨娘语音3",
+          "yyyp1_1f": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/audios//anqila_bishengke_move_4_291729.wav"
+        }
+      ]
+    }
+  ]
+}

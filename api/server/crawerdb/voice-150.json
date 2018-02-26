@@ -1,0 +1,75 @@
+{
+  "YXMC_8f": "韩信",
+  "YXTX_8d": "",
+  "yxbm_72": "",
+  "yxlx_32": "",
+  "yxcv_ff": "樊俊航",
+  "yxgs_28": "",
+  "yyjs_1e": "",
+  "yxjl_38": "",
+  "lssdyx_94": "",
+  "gszbannert01_ff": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170427/H-hx_0479371.jpg",
+  "gszbannert02_08": "",
+  "lbbanner_f4": [
+    ""
+  ],
+  "yxpfyy_fe": [
+    {
+      "yxcv_ff": "樊俊航",
+      "pfmc_ff": "国士无双",
+      "pfbanner_ed": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170427/H-hx_0499288.jpg",
+      "yylb1_c8": [
+        {
+          "yywa1_f2": "韩信-国士无双语音1",
+          "yyyp1_1f": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/audios//hanxin_hall_1_0506268.wav"
+        },
+        {
+          "yywa1_f2": "韩信-国士无双语音2",
+          "yyyp1_1f": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/audios//hanxin_hall_2_0515673.wav"
+        },
+        {
+          "yywa1_f2": "韩信-国士无双语音3",
+          "yyyp1_1f": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/audios//hanxin_hall_3_0523143.wav"
+        }
+      ]
+    },
+    {
+      "yxcv_ff": "翟巍",
+      "pfmc_ff": "白龙吟",
+      "pfbanner_ed": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170427/H-hxxbl_0753752.jpg",
+      "yylb1_c8": [
+        {
+          "yywa1_f2": "韩信-白龙吟语音1",
+          "yyyp1_1f": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/audios//hanxin_bailong_hall_1_0761790.wav"
+        },
+        {
+          "yywa1_f2": "韩信-白龙吟语音2",
+          "yyyp1_1f": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/audios//hanxin_bailong_hall_2_0767275.wav"
+        },
+        {
+          "yywa1_f2": "韩信-白龙吟语音3",
+          "yyyp1_1f": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/audios//hanxin_bailong_hall_3_0774180.wav"
+        }
+      ]
+    },
+    {
+      "yxcv_ff": "樊俊航",
+      "pfmc_ff": "逐梦之影",
+      "pfbanner_ed": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170623/_4351160.jpg",
+      "yylb1_c8": [
+        {
+          "yywa1_f2": "韩信-逐梦之影语音1",
+          "yyyp1_1f": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/audios//hanxin_kpl_move_1_1984931.wav"
+        },
+        {
+          "yywa1_f2": "韩信-逐梦之影语音2",
+          "yyyp1_1f": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/audios//hanxin_kpl_move_2_01_1991325.wav"
+        },
+        {
+          "yywa1_f2": "韩信-逐梦之影语音3",
+          "yyyp1_1f": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/audios//hanxin_kpl_move_3_1998435.wav"
+        }
+      ]
+    }
+  ]
+}

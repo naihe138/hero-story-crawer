@@ -1,0 +1,250 @@
+{
+  "yxid_a7": "116",
+  "ygzsybjt_5a": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170426/_6939691.png",
+  "ygzsysp_0e": {
+    "spjt_1b": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170426/1122_7122898.jpg",
+    "spvid_34": "t0395zttp1n",
+    "syspjtydd_3e": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170703/1122_7122898_5319209.jpg"
+  },
+  "yxsx_cd": {
+    "yxscnl_c2": "2",
+    "yxgjsh_13": "9",
+    "yxjnxg_2b": "4",
+    "yxssnd_c1": "6"
+  },
+  "ygzxyxsjsl_23": {
+    "gszurl_c7": {
+      "gszurlydhb_c7": "//pvp.qq.com/cp/a20161213jk/index.htm?ADTAG=pvp.a20161213jk.xymovegw.story",
+      "gszurlydsb_57": "//pvp.qq.com/cp/a20161213jk/index.htm?ADTAG=pvp.a20161213jk.movegw.story"
+    },
+    "sjsl_a0": "<p>一直以来我们都在寻求刺客在游戏中的地位，刺客这个职业在王者战场上经常扮演着各式各样的角色，有单带达人在战局中去牵制对手（例如韩信），有的拥有极强的GANK能力（例如兰陵王），有能够承受大量伤害坚持到最后收割残局的（肉装阿轲）。我们并不反对单个职业拥有更多元化的玩法，但同时我们需要让各个职业有较明确的分工，所以我们也陆续在对这些英雄进行改造。</p><br><p>阿轲作为王者荣耀中第一位登场的刺客，在历经众多版本洗礼后，依然活跃在战场上。因为她拥有很多极强的特性，其中最为核心的是 刷新技能与免伤回血，这样的组合搭配，让阿轲在顺风局中令人闻风丧胆，而在逆风局中又很难有所作为，这种赌博式的玩法似乎并不是很好，而且阿轲技能的命中率都很高，对手基本无法躲避。</p><br><p>所以我们需要对阿轲进行一些改造，让她的玩法更加有趣，并增加更多的博弈性。</p><br><p>重生的阿轲，将重新树立刺客职业的标杆。没有硬控，没有生存放大，只有刀刀致命的伤害和贴近对手的能力。虽然新的阿轲损失了一些正面作战的能力，但她的爆发输出能力将无人能及。一旦把握好进场时机，找准需要暗杀的敌人潜行到其身后，阿轲将会发起最为致命的偷袭，一旦完成击杀，阿轲又可以再次影遁于暗影之中，伺机待发寻找下一个目标。并且因此我们调整了阿轲的推荐出装。</p>"
+  },
+  "jdjq_7b": "主一副二，有大点大",
+  "ygzjn_d2": [
+    {
+      "JNJS_f3": "m0395fofmft",
+      "JNMC_3d": "死吻",
+      "JNSM_58": "阿轲在敌人身后发起的攻击，必定暴击(包括技能)，但是基础暴击伤害只有125%（阿轲每1%暴击几率将提升额外的0.5%暴击伤害）。阿轲所有的正面发起的进攻，都不能产生暴击效果（对所有非英雄单位造成最多1500伤害）",
+      "WF_2e": "被动技能导致阿轲在敌人正面和背后的输出完全不在一个档次上，在敌人背后进行输出能造成巨大的伤害",
+      "JNICON_a0": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170426/skill-nav1_7741108.png",
+      "jnjtydhb_b7": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170602/nav_5004723.jpg",
+      "jnjtydsb_ae": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170602/nav_5007321.jpg",
+      "spjt_1b": ""
+    },
+    {
+      "JNJS_f3": "p03955s3icd",
+      "JNMC_3d": "弧光",
+      "JNSM_58": "阿轲立即使用双刺攻击目标（短时间内攻击2次），造成物理伤害（施法期间可以移动）",
+      "WF_2e": "普攻间隙使用，瞬间造成大量输出，注意施法时继续移动缠住对手",
+      "JNICON_a0": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170426/skill-nav2_7964773.png",
+      "jnjtydhb_b7": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170602/11111_5015846.jpg",
+      "jnjtydsb_ae": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170602/11111_5018320.jpg",
+      "spjt_1b": ""
+    },
+    {
+      "JNJS_f3": "p03955sz0dv",
+      "JNMC_3d": "瞬华",
+      "JNSM_58": "阿轲朝指定方向开始快速位移（突进过程中不造成伤害），在抵达终点后，立即对附近的一名敌人发起攻击（优先英雄），造成物理伤害并标记目标持续10秒。阿轲每次攻击标记的目标，将缩短瞬华1秒冷却时间。 被标记的目标攻击阿轲时造成的伤害降低30%，阿轲同一时间只能标记一个敌人。",
+      "WF_2e": "2技能先手标记敌人后再进行输出，并且2技能的位移能帮助阿轲瞬间到达敌方背后",
+      "JNICON_a0": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170426/skill-nav3_799877.png",
+      "jnjtydhb_b7": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170602/2222_5025572.jpg",
+      "jnjtydsb_ae": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170602/2222_5028872.jpg",
+      "spjt_1b": ""
+    },
+    {
+      "JNJS_f3": "a03953w7wgh",
+      "JNMC_3d": "幻舞",
+      "JNSM_58": "阿轲立即进入隐身状态，持续回血并增加自身移动速度，持续3秒。阿轲发起攻击时，解除自身隐身与加速状态，破隐后的3秒内，提升阿轲的攻击伤害，3S内每一次造成伤害都会增加移动速度1S。 被动：阿轲击杀或者助攻时，刷新所有技能的冷却时间。",
+      "WF_2e": "利用大招的隐身和加速效果切入战场并利用2技能迅速靠近敌方后排进行输出，击杀/助攻后再利用大招逃生或伺机而动",
+      "JNICON_a0": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170426/skill-nav4_8042253.png",
+      "jnjtydhb_b7": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170602/33333_5035775.jpg",
+      "jnjtydsb_ae": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170602/33333_5039230.jpg",
+      "spjt_1b": ""
+    }
+  ],
+  "yxgllj_2d": "//pvp.qq.com/ingame/all/index.shtml#!/strategy/heroBook/116",
+  "mwtj_36": "物理攻击、物理穿透、移动速度",
+  "mwtjly_46": "增加阿轲前期清野和抓人效率",
+  "SJMW_81": [
+    {
+      "MWICON_c6": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170426/mw4_01_8115805.png",
+      "MWMC_f2": "狂热"
+    },
+    {
+      "MWICON_c6": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170426/mw4_03_8130373.png",
+      "MWMC_f2": "野性"
+    },
+    {
+      "MWICON_c6": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170426/mw4_02_8142314.png",
+      "MWMC_f2": "急救"
+    }
+  ],
+  "WJMW_ed": [
+    {
+      "MWICON_c6": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170411/64-76_3670391.png",
+      "MWMC_f2": "无双"
+    },
+    {
+      "MWICON_c6": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170426/mw03_8222731.png",
+      "MWMC_f2": "鹰眼"
+    },
+    {
+      "MWICON_c6": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170426/mw02_8235249.png",
+      "MWMC_f2": "狩猎"
+    }
+  ],
+  "ygzcz01_d9": {
+    "TJCZ_16": [
+      {
+        "CZMC_1a": "红莲斗篷",
+        "CZICON_c4": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images//tj_pic1_3783544.png"
+      },
+      {
+        "CZMC_1a": "贤者的庇护",
+        "CZICON_c4": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images//pic_zb611_4598537.png"
+      },
+      {
+        "CZMC_1a": "无尽战刃",
+        "CZICON_c4": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170519/wujinzhanren_4582498.png"
+      },
+      {
+        "CZMC_1a": "隐忍之足",
+        "CZICON_c4": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170406/01-1_7543702.png"
+      },
+      {
+        "CZMC_1a": "闪电匕首",
+        "CZICON_c4": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170420/4_5481784.png"
+      },
+      {
+        "CZMC_1a": "破军",
+        "CZICON_c4": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170420/3_5530141.png"
+      }
+    ],
+    "tjczms_e3": "顺风局出装",
+    "tjczly_4e": "尽快合成无尽战刃，拥有强大的物理爆发能力，能够在短时间内秒掉敌方脆皮"
+  },
+  "ygzcz02_6a": {
+    "TJCZ_16": [
+      {
+        "CZMC_1a": "暗影战斧",
+        "CZICON_c4": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images//tj_pic4_3841251.png"
+      },
+      {
+        "CZMC_1a": "破甲弓",
+        "CZICON_c4": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170519/pojiagong_458871.png"
+      },
+      {
+        "CZMC_1a": "泣血之刃",
+        "CZICON_c4": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170519/qixuezhiren_457464.png"
+      },
+      {
+        "CZMC_1a": "无尽战刃",
+        "CZICON_c4": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170519/wujinzhanren_4582498.png"
+      },
+      {
+        "CZMC_1a": "隐忍之足",
+        "CZICON_c4": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170406/01-1_7543702.png"
+      },
+      {
+        "CZMC_1a": "名刀·司命",
+        "CZICON_c4": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170426/cz2_02_6796951.png"
+      }
+    ],
+    "tjczms_e3": "逆风局出装",
+    "tjczly_4e": "尽快合成暗影战斧，后期牺牲了一定的爆发，但是持续输出能力更强"
+  },
+  "SYZYSX_e0": "<p><i>-</i><span>4级前猥琐发育，4级后利用大招CD短并且能回血的特点不断去GANK脆皮，达到击杀/骚扰的目的</span></p><p><i>-</i><span>尽可能每一下伤害都在敌方背后攻击以达到最大化输出</span></p><p><i>-</i><span>团战时阿轲的目的是最快速度的秒杀敌方后排然后再利用大招逃离/再次进场，目标的选择和进场时机都十分重要</span></p>",
+  "dssygyxs_3e": "<p><i>-</i><span>对抗阿轲时不要将后背暴露给她，随时调整自己的位置</span></p><p><i>-</i><span>阿轲开启大招时每隔一段时间会显示自己的位置，注意随时观察她的位置</span></p><p><i>-</i><span>阿轲的游走效率很高，对线期尽量不要在不知道阿轲位置时与敌方英雄对拼</span></p><p><i>-</i><span>团战时尽量保护友方后排英雄，阿轲在正面团战时作用较小</span></p>",
+  "XGYX_25": [
+    {
+      "ZJDDMC_64": "宫本武藏",
+      "ZJDDTX_37": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170426/zjpd01_8814431.jpg",
+      "zjddsm_61": "宫本团战时可以精确大住想大的人，配合阿轲敌方很难保护的了后排"
+    },
+    {
+      "ZJDDMC_64": "夏侯惇",
+      "ZJDDTX_37": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170426/zjpd02_8927642.jpg",
+      "zjddsm_61": "夏侯惇拥有极强的开团和控制能力，能为阿轲提供可靠的输出环境"
+    }
+  ],
+  "YZYX_79": [
+    {
+      "YZYXMC_cd": "鲁班",
+      "YZYXTX_dc": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170426/yz01_8994581.jpg",
+      "yzyxsm_51": "鲁班等没有位移的脆皮射手"
+    },
+    {
+      "YZYXMC_cd": "嬴政",
+      "YZYXTX_dc": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170426/yz02_9014174.jpg",
+      "yzyxsm_51": "嬴政等没有位移和控制的脆皮法师"
+    }
+  ],
+  "YZYX_9c": [
+    {
+      "BYZYXMC_f6": "牛魔",
+      "BYZYXTX_4f": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170426/byz01_9042162.jpg",
+      "byzyxsm_c1": "强力的控制和坚硬的身板让阿轲无论是对他还是对他保护的英雄都难以下手"
+    },
+    {
+      "BYZYXMC_f6": "太乙真人",
+      "BYZYXTX_4f": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170426/byz02_9063271.jpg",
+      "byzyxsm_c1": "太乙真人的复活给到队友后即使阿轲击杀也无法刷新自己的大招逃命"
+    }
+  ],
+  "dssp_f2": [
+    {
+      "spbt_3e": "荆轲火焰山疯狂收割如割草！",
+      "spjt_1b": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170426/_20170426113117_925486.jpg",
+      "spvid_34": "a038940t2al"
+    },
+    {
+      "spbt_3e": "峡谷杀神残血噩梦 荆轲屠杀娱乐集锦",
+      "spjt_1b": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170426/1490984048_9286556.jpg",
+      "spvid_34": "a038940t2al"
+    },
+    {
+      "spbt_3e": "疯狂屠戮威震峡谷 荆轲精彩操作秀",
+      "spjt_1b": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170426/1490979632_9388958.jpg",
+      "spvid_34": "e03893ewznz"
+    }
+  ],
+  "ygzyxhqfs_f7": [
+    "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170426/pf3_9145386.jpg",
+    "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170426/pf1_9147539.jpg",
+    "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170426/pf2_9148114.jpg"
+  ],
+  "ygzbjt_bf": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170505/_1869311.jpg",
+  "ymtitle_d2": "英雄重塑-阿轲",
+  "blzzzslsjsldwb_f5": "重塑思路",
+  "blzmslgdwb_8f": "",
+  "sfzx_ab": {
+    "tab01_d3": "首页",
+    "tab02_9b": "重塑思路",
+    "tab03_0f": "",
+    "tab04_21": "技能阐述",
+    "tab05_76": "搭配技巧",
+    "tab06_98": "获取方法"
+  },
+  "blzpcyxbjgs_e5": "<p>自古以来，在暗夜中隐藏着神秘的刺客一族“荆氏”。他们掌握着代代相传的杀人之剑的秘诀，收受佣金为雇主服务，并且守口如瓶。</p><p>当大周帝国四分五裂的时候，这一族只剩下最后相依为命的兄妹二人兄长继承了“荆轲”的名号，白日里混迹街头，与市井无赖为伍，夜幕降临时则化身为致命杀手。 将军樊於期，窥探到秦王的秘密被迫逃亡，成为燕国的客人。但是，他的声望引起了太子丹的嫉妒。“落魄的流浪者，竟然取代孤成为反秦的首领，不可容忍。”太子丹的手下将大笔金钱送到了杀手荆轲的手中。</p><p>荆轲产生了生平第一次犹豫。豪爽的樊於期与年轻的刺客荆轲，不知不觉间早已超越身份的差距结为好友。最终他拒绝了这笔生意。</p><p>次日，樊於期前来拜访荆轲，从怀里掏出一册木简，上面刻着秦宫的布防图。他对好友诉说计划，想要雇佣“荆氏”刺秦，却不知道眼前人正是那位著名的刺客。荆轲敏锐察觉到有人跟踪而至，他打开门，发现外面大批私兵包围。</p><p>“真可惜啊，我还没有机会为自己挥出过一剑。”荆轲叹息着，提剑走向了残忍的凶手。生命的最后一刻，他想到的是小妹，自己死去后，家族的命运将降临到少女的身上。</p><p>惨烈的战斗持续到黄昏，熊熊烈焰将半条街映红。次日，太子丹志得意满的起身去参加又一场反秦者的宴会，向与会者展示了樊於期和荆轲的头颅。然而众人的惊叹声中，闪烁着寒光的利刃袭来——宣示着代代传承的刺客“荆轲”，并不因一人的死去而死去。</p><p>太子丹的侍卫彻夜搜索着大胆的刺客，却不知宴会的乐师已将她带走。</p><p>不知过了多久，继承了家族之名的少女被琴声唤醒，她失去了记忆，只记得自己的名字叫阿轲。悠扬的琴声向她述说着漫长的故事，包含家族，死亡和刺秦的意志。她沉默的聆听着。那卷在火焰中燃烧的地图，已深深镌刻在她的脑海里。</p><p><br></p><p>千百年来，延续着雇佣刺客命运的荆氏一族的最后一人，终将是为了自己和所挚爱的亲人，挥出致命的一剑。</p>",
+  "blzpcyxdtbtmcc930x680_8d": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170626/_7692712.png",
+  "blzjbyxdw_5f": "刺客 突进 收割",
+  "blzjbyxdtcc660x384_84": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170623/_6463846.jpg",
+  "yxzs_36": [
+    {
+      "yxzspc_38": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170925/14_7789643.jpg",
+      "yxzsydd_3b": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170703/750-712-9_3155544.jpg",
+      "yxzstx_1d": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170703/90-90-9_3159213.jpg",
+      "yxch_ce": "信念之刃",
+      "yxzsmc_ae": "阿轲",
+      "yxszdw_e0": "4",
+      "sxsj_24": "2017.04.28"
+    }
+  ],
+  "ygzyxhqfsydd_29": [
+    "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170703/_3205603.jpg",
+    "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170703/_3215248.jpg",
+    "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170703/_3221651.jpg"
+  ],
+  "bjgstppc_53": "//game.gtimg.cn/images/yxzj/wtc_static_yxzj/images/image/20170703/546-358-9_3252714.jpg",
+  "fx_ec": "英雄重塑【信念之刃-阿轲】4月28日重塑"
+}
