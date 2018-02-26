@@ -3,11 +3,16 @@ module.exports = {
    ** Headers of the page
    */
   head: {
-    title: 'starter',
+    title: '王者荣耀故事站',
+    titleTemplate: '王者荣耀故事站',
     meta: [
       { charset: 'utf-8' },
-      { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { hid: 'description', name: 'description', content: 'story' }
+      { 'http-equiv': 'cleartype', content: 'on' },
+      { 'http-equiv': 'Cache-Control' },
+      { name: 'viewport', content: 'width=device-width, initial-scale=1, user-scalable=no' },
+      { hid: 'description', name: 'description', content: '王者荣耀故事站' },
+      { hid: 'keywords', name: 'keywords', content: '前端开发，JavaScript, Node, Vue，nuxt' },
+      { name: 'author', content: '370215230@qq.com' }
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }

@@ -5,7 +5,7 @@
  */
 
 import axios from 'axios'
-const baseUrl = 'http://127.0.0.1:8080'
+const baseUrl = 'https://story.naice.me'
 // const apiUrl = 'http://rap.taobao.org/mockjsdata/26934'
 
 class Service {
